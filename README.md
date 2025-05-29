@@ -59,7 +59,6 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 git clone https://github.com/Gargipaul/enrichment-analysis-PPARG-WFS1-SLC30A8.git
 cd enrichment-analysis-PPARG-WFS1-SLC30A8
 
-```
 
 ## **License**
 
