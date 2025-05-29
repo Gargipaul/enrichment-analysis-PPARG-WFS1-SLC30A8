@@ -17,27 +17,27 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 📄 manhattan_plot_labeled.png # Optional labeled Manhattan plot
 📜 LICENSE # MIT License
 
+
+
 ---
 
-## Methodology
+## Data and Methods
 
-### 1. **Data Acquisition**
-- GWAS SNPs associated with T2D (p < 5 × 10⁻⁸) were sourced from the [DIAGRAM v3.2012DEC17](https://diagram-consortium.org/downloads.html) study.
-- SNPs were curated into `genome_wide_significant_snps.xlsx`.
+### Data Source
+- **GWAS Dataset**: DIAGRAMv3.2012DEC17 – genome-wide significant SNPs (p < 5×10⁻⁸)
 
-### 2. **Functional Annotation**
-- Functional profiling was performed using [g:Profiler](https://biit.cs.ut.ee/gprofiler/gost), generating gene ontologies and pathway enrichments.
-- Genes PPARG, WFS1, and SLC30A8 were selected based on biological relevance and annotation output.
+### Functional Annotation
+- Tool: [g:Profiler](https://biit.cs.ut.ee/gprofiler/)
+- Output includes enriched gene ontologies and pathway annotations
 
-### 3. **Differential Expression Analysis**
-- Gene-level log₂ fold change and p-values were compiled in `cleaned_merged_gwas_diagram_annotations.xlsx`.
-- Threshold for significance: **p < 0.05**
+### Genes of Interest
+- **PPARG** – nuclear receptor affecting adipogenesis and insulin sensitivity
+- **WFS1** – regulates ER stress and β-cell function
+- **SLC30A8** – zinc transporter important for insulin granule formation
 
-### 4. **Visualization**
-- Volcano plots were generated using `plotting.ipynb` with:
-  - **X-axis:** log₂(fold change)
-  - **Y-axis:** –log₁₀(p-value)
-  - Interactive rendering using **Plotly**
+### Statistical Thresholds
+- Significance: p < 0.05
+- Visualization: Volcano plot with log₂ fold change (x-axis) vs. –log₁₀ p-value (y-axis)
 
 ---
 
@@ -45,33 +45,40 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 
 | Gene      | log₂ Fold Change | P-value  | Significance       |
 |-----------|------------------|----------|--------------------|
-| PPARG     | 3.0              | 0.0001   | **Highly significant** |
-| WFS1      | 2.5              | 0.001    | **Highly significant** |
-| SLC30A8   | 1.2              | 0.05     | Borderline         |
-
-- **PPARG**: Upregulated, consistent with role in adipogenesis and insulin sensitivity.
-- **WFS1**: Upregulated, involved in ER stress and β-cell function.
-- **SLC30A8**: Marginal change, relevant to insulin granule formation.
+| PPARG     | 3.0              | 0.0001   | ✅ Highly significant |
+| WFS1      | 2.5              | 0.001    | ✅ Highly significant |
+| SLC30A8   | 1.2              | 0.05     | ⚠️ Borderline significance |
 
 ---
 
 ## How to Reproduce
 
-1. Clone the repository:
+Clone this repository:
 
 ```bash
 git clone https://github.com/Gargipaul/enrichment-analysis-PPARG-WFS1-SLC30A8.git
 cd enrichment-analysis-PPARG-WFS1-SLC30A8
----
 
-Install required Python libraries
+Install required Python packages:
+pip install pandas matplotlib plotly
 
+Launch the Jupyter Notebook and run the plotting script:
+
+jupyter notebook plotting.ipynb
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
-DIAGRAM Consortium for GWAS data
+DIAGRAM Consortium for providing GWAS meta-analysis data
 
-g:Profiler for functional annotation tools
+g:Profiler for gene ontology and functional annotation tools
+
+
+---
+
+
+
+
+
 
 
