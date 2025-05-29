@@ -55,13 +55,18 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 
 ## Clone this repository:
 
-```bash
+
 git clone https://github.com/Gargipaul/enrichment-analysis-PPARG-WFS1-SLC30A8.git
 cd enrichment-analysis-PPARG-WFS1-SLC30A8
 
 ```
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+## **License**
+
+This project is licensed under the **MIT License**.  
+See the [**LICENSE**](LICENSE) file for details.
+
+
 
 ```
 ## Acknowledgments
