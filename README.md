@@ -61,11 +61,9 @@ cd enrichment-analysis-PPARG-WFS1-SLC30A8
 
 ```
 
-## **License**
-
-This project is licensed under the **MIT License**.  
-See the [**LICENSE**](LICENSE) file for details.
-
+## License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
 
 
 ```
