@@ -66,9 +66,12 @@ cd enrichment-analysis-PPARG-WFS1-SLC30A8
 
 ## Install required Python libraries
 
-## License
+License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgments
-- DIAGRAM Consortium for GWAS data
-- g:Profiler for functional annotation tools
+Acknowledgments
+DIAGRAM Consortium for GWAS data
+
+g:Profiler for functional annotation tools
+
+
