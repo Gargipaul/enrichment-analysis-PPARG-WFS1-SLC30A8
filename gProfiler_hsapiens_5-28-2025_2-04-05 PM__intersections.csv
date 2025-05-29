@@ -1,0 +1,1633 @@
+source,term_name,term_id,adjusted_p_value,negative_log10_of_adjusted_p_value,term_size,query_size,intersection_size,effective_domain_size,intersections
+GO:MF,DNA binding domain binding,GO:0050692,0.199358658,0.700364898,4,3,1,20196,PPARG
+GO:MF,zinc:proton antiporter activity,GO:0140826,0.199358658,0.700364898,4,3,1,20196,SLC30A8
+GO:MF,LBD domain binding,GO:0050693,0.348825825,0.45739137,7,3,1,20196,PPARG
+GO:MF,arachidonate binding,GO:0050544,0.348825825,0.45739137,7,3,1,20196,PPARG
+GO:MF,icosatetraenoic acid binding,GO:0050543,0.348825825,0.45739137,7,3,1,20196,PPARG
+GO:MF,icosanoid binding,GO:0050542,0.398638343,0.399420931,8,3,1,20196,PPARG
+GO:MF,prostaglandin receptor activity,GO:0004955,0.498248575,0.302553934,10,3,1,20196,PPARG
+GO:MF,STAT family protein binding,GO:0097677,0.54804629,0.261182758,11,3,1,20196,PPARG
+GO:MF,prostanoid receptor activity,GO:0004954,0.54804629,0.261182758,11,3,1,20196,PPARG
+GO:MF,DNA-binding transcription factor binding,GO:0140297,0.581898292,0.235152918,490,3,2,20196,"PPARG,WFS1"
+GO:MF,icosanoid receptor activity,GO:0004953,0.747187809,0.126570223,15,3,1,20196,PPARG
+GO:MF,long-chain fatty acid binding,GO:0036041,0.846728968,0.072255582,17,3,1,20196,PPARG
+GO:MF,nuclear retinoid X receptor binding,GO:0046965,0.846728968,0.072255582,17,3,1,20196,PPARG
+GO:MF,transcription factor binding,GO:0008134,0.869589548,0.060685689,600,3,2,20196,"PPARG,WFS1"
+GO:MF,proteasome binding,GO:0070628,0.896492149,0.047453509,18,3,1,20196,WFS1
+GO:MF,transcription cis-regulatory region binding,GO:0000976,1,0,1483,3,1,20196,PPARG
+GO:MF,calcium-dependent protein binding,GO:0048306,1,0,80,3,1,20196,WFS1
+GO:MF,protein dimerization activity,GO:0046983,1,0,1116,3,1,20196,SLC30A8
+GO:MF,transition metal ion transmembrane transporter activity,GO:0046915,1,0,42,3,1,20196,SLC30A8
+GO:MF,transition metal ion binding,GO:0046914,1,0,1139,3,2,20196,"PPARG,SLC30A8"
+GO:MF,metal ion transmembrane transporter activity,GO:0046873,1,0,447,3,1,20196,SLC30A8
+GO:MF,metal ion binding,GO:0046872,1,0,4375,3,2,20196,"PPARG,SLC30A8"
+GO:MF,SMAD binding,GO:0046332,1,0,78,3,1,20196,PPARG
+GO:MF,protein-containing complex binding,GO:0044877,1,0,1279,3,1,20196,WFS1
+GO:MF,ubiquitin-like protein ligase binding,GO:0044389,1,0,326,3,1,20196,WFS1
+GO:MF,ATPase binding,GO:0051117,1,0,84,3,1,20196,WFS1
+GO:MF,sequence-specific DNA binding,GO:0043565,1,0,1655,3,1,20196,PPARG
+GO:MF,cation binding,GO:0043169,1,0,4474,3,2,20196,"PPARG,SLC30A8"
+GO:MF,anion binding,GO:0043168,1,0,2445,3,1,20196,PPARG
+GO:MF,ion binding,GO:0043167,1,0,6153,3,2,20196,"PPARG,SLC30A8"
+GO:MF,nuclear retinoic acid receptor binding,GO:0042974,1,0,26,3,1,20196,PPARG
+GO:MF,actinin binding,GO:0042805,1,0,37,3,1,20196,PPARG
+GO:MF,protein homodimerization activity,GO:0042803,1,0,727,3,1,20196,SLC30A8
+GO:MF,identical protein binding,GO:0042802,1,0,2166,3,2,20196,"PPARG,SLC30A8"
+GO:MF,peptide binding,GO:0042277,1,0,254,3,1,20196,PPARG
+GO:MF,signaling receptor activity,GO:0038023,1,0,1492,3,1,20196,PPARG
+GO:MF,organic acid binding,GO:0043177,1,0,195,3,1,20196,PPARG
+GO:MF,small molecule binding,GO:0036094,1,0,6357,3,2,20196,"PPARG,SLC30A8"
+GO:MF,metal cation:proton antiporter activity,GO:0051139,1,0,26,3,1,20196,SLC30A8
+GO:MF,molecular transducer activity,GO:0060089,1,0,1492,3,1,20196,PPARG
+GO:MF,alpha-actinin binding,GO:0051393,1,0,28,3,1,20196,PPARG
+GO:MF,sequence-specific double-stranded DNA binding,GO:1990837,1,0,1544,3,1,20196,PPARG
+GO:MF,metal cation:monoatomic cation antiporter activity,GO:0140828,1,0,42,3,1,20196,SLC30A8
+GO:MF,transcription regulator activity,GO:0140110,1,0,1962,3,1,20196,PPARG
+GO:MF,ligand-activated transcription factor activity,GO:0098531,1,0,60,3,1,20196,PPARG
+GO:MF,organic cyclic compound binding,GO:0097159,1,0,7525,3,1,20196,PPARG
+GO:MF,E-box binding,GO:0070888,1,0,59,3,1,20196,PPARG
+GO:MF,R-SMAD binding,GO:0070412,1,0,25,3,1,20196,PPARG
+GO:MF,RNA polymerase II-specific DNA-binding transcription factor binding,GO:0061629,1,0,348,3,1,20196,PPARG
+GO:MF,monocarboxylic acid binding,GO:0033293,1,0,80,3,1,20196,PPARG
+GO:MF,ubiquitin protein ligase binding,GO:0031625,1,0,308,3,1,20196,WFS1
+GO:MF,carboxylic acid binding,GO:0031406,1,0,183,3,1,20196,PPARG
+GO:MF,G protein-coupled receptor activity,GO:0004930,1,0,838,3,1,20196,PPARG
+GO:MF,transmembrane signaling receptor activity,GO:0004888,1,0,1270,3,1,20196,PPARG
+GO:MF,nuclear receptor activity,GO:0004879,1,0,59,3,1,20196,PPARG
+GO:MF,DNA-binding transcription factor activity,GO:0003700,1,0,1448,3,1,20196,PPARG
+GO:MF,double-stranded DNA binding,GO:0003690,1,0,1640,3,1,20196,PPARG
+GO:MF,chromatin binding,GO:0003682,1,0,603,3,1,20196,PPARG
+GO:MF,DNA binding,GO:0003677,1,0,2541,3,1,20196,PPARG
+GO:MF,nucleic acid binding,GO:0003676,1,0,5470,3,1,20196,PPARG
+GO:MF,molecular_function,GO:0003674,1,0,20196,3,3,20196,"PPARG,WFS1,SLC30A8"
+GO:MF,transporter activity,GO:0005215,1,0,1234,3,1,20196,SLC30A8
+GO:MF,"DNA-binding transcription activator activity, RNA polymerase II-specific",GO:0001228,1,0,472,3,1,20196,PPARG
+GO:MF,transcription coactivator binding,GO:0001223,1,0,47,3,1,20196,PPARG
+GO:MF,transcription coregulator binding,GO:0001221,1,0,118,3,1,20196,PPARG
+GO:MF,DNA-binding transcription repressor activity,GO:0001217,1,0,335,3,1,20196,PPARG
+GO:MF,DNA-binding transcription activator activity,GO:0001216,1,0,478,3,1,20196,PPARG
+GO:MF,transcription regulatory region nucleic acid binding,GO:0001067,1,0,1485,3,1,20196,PPARG
+GO:MF,cis-regulatory region sequence-specific DNA binding,GO:0000987,1,0,1205,3,1,20196,PPARG
+GO:MF,"DNA-binding transcription factor activity, RNA polymerase II-specific",GO:0000981,1,0,1359,3,1,20196,PPARG
+GO:MF,RNA polymerase II cis-regulatory region sequence-specific DNA binding,GO:0000978,1,0,1182,3,1,20196,PPARG
+GO:MF,RNA polymerase II transcription regulatory region sequence-specific DNA binding,GO:0000977,1,0,1386,3,1,20196,PPARG
+GO:MF,"DNA-binding transcription repressor activity, RNA polymerase II-specific",GO:0001227,1,0,326,3,1,20196,PPARG
+GO:MF,zinc ion transmembrane transporter activity,GO:0005385,1,0,25,3,1,20196,SLC30A8
+GO:MF,binding,GO:0005488,1,0,18366,3,3,20196,"PPARG,WFS1,SLC30A8"
+GO:MF,fatty acid binding,GO:0005504,1,0,48,3,1,20196,PPARG
+GO:MF,nuclear estrogen receptor binding,GO:0030331,1,0,41,3,1,20196,PPARG
+GO:MF,inorganic cation transmembrane transporter activity,GO:0022890,1,0,613,3,1,20196,SLC30A8
+GO:MF,transmembrane transporter activity,GO:0022857,1,0,1134,3,1,20196,SLC30A8
+GO:MF,active monoatomic ion transmembrane transporter activity,GO:0022853,1,0,287,3,1,20196,SLC30A8
+GO:MF,active transmembrane transporter activity,GO:0022804,1,0,454,3,1,20196,SLC30A8
+GO:MF,protein domain specific binding,GO:0019904,1,0,655,3,1,20196,PPARG
+GO:MF,protein phosphatase binding,GO:0019903,1,0,143,3,1,20196,PPARG
+GO:MF,phosphatase binding,GO:0019902,1,0,190,3,1,20196,PPARG
+GO:MF,enzyme binding,GO:0019899,1,0,2105,3,2,20196,"PPARG,WFS1"
+GO:MF,nuclear receptor binding,GO:0016922,1,0,138,3,1,20196,PPARG
+GO:MF,inorganic molecular entity transmembrane transporter activity,GO:0015318,1,0,735,3,1,20196,SLC30A8
+GO:MF,antiporter activity,GO:0015297,1,0,135,3,1,20196,SLC30A8
+GO:MF,secondary active transmembrane transporter activity,GO:0015291,1,0,284,3,1,20196,SLC30A8
+GO:MF,proton transmembrane transporter activity,GO:0015078,1,0,186,3,1,20196,SLC30A8
+GO:MF,monoatomic ion transmembrane transporter activity,GO:0015075,1,0,771,3,1,20196,SLC30A8
+GO:MF,monoatomic cation transmembrane transporter activity,GO:0008324,1,0,654,3,1,20196,SLC30A8
+GO:MF,lipid binding,GO:0008289,1,0,848,3,1,20196,PPARG
+GO:MF,zinc ion binding,GO:0008270,1,0,862,3,2,20196,"PPARG,SLC30A8"
+GO:MF,cytoskeletal protein binding,GO:0008092,1,0,1008,3,1,20196,PPARG
+GO:MF,calmodulin binding,GO:0005516,1,0,206,3,1,20196,WFS1
+GO:MF,protein binding,GO:0005515,1,0,14865,3,3,20196,"PPARG,WFS1,SLC30A8"
+GO:BP,positive regulation of transport,GO:0051050,0.032270221,1.491198061,844,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,chemical homeostasis,GO:0048878,0.058008416,1.236508991,1026,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,negative regulation of pancreatic stellate cell proliferation,GO:2000230,0.071370795,1.146479465,1,3,1,21017,PPARG
+GO:BP,positive regulation of hormone secretion,GO:0046887,0.07156536,1.145297141,146,3,2,21017,"PPARG,SLC30A8"
+GO:BP,response to type II interferon,GO:0034341,0.072550156,1.13936165,147,3,2,21017,"PPARG,SLC30A8"
+GO:BP,positive regulation of protein secretion,GO:0050714,0.07354165,1.133466631,148,3,2,21017,"PPARG,SLC30A8"
+GO:BP,pancreatic stellate cell proliferation,GO:0072343,0.142734798,0.845470135,2,3,1,21017,PPARG
+GO:BP,regulation of cholesterol transporter activity,GO:0060694,0.142734798,0.845470135,2,3,1,21017,PPARG
+GO:BP,regulation of pancreatic stellate cell proliferation,GO:2000229,0.142734798,0.845470135,2,3,1,21017,PPARG
+GO:BP,regulation of connective tissue replacement involved in inflammatory response wound healing,GO:1904596,0.142734798,0.845470135,2,3,1,21017,PPARG
+GO:BP,negative regulation of connective tissue replacement involved in inflammatory response wound healing,GO:1904597,0.142734798,0.845470135,2,3,1,21017,PPARG
+GO:BP,negative regulation of connective tissue replacement,GO:1905204,0.142734798,0.845470135,2,3,1,21017,PPARG
+GO:BP,cellular response to vitamin E,GO:0071306,0.142734798,0.845470135,2,3,1,21017,PPARG
+GO:BP,negative regulation of ATF6-mediated unfolded protein response,GO:1903892,0.142734798,0.845470135,2,3,1,21017,WFS1
+GO:BP,negative regulation of extracellular matrix assembly,GO:1901202,0.214092009,0.669399542,3,3,1,21017,PPARG
+GO:BP,positive regulation of adiponectin secretion,GO:0070165,0.214092009,0.669399542,3,3,1,21017,PPARG
+GO:BP,regulation of transport,GO:0051049,0.215710432,0.666128852,1589,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,response to biotic stimulus,GO:0009607,0.217344595,0.662851155,1593,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,positive regulation of protein transport,GO:0051222,0.219905968,0.657762985,256,3,2,21017,"PPARG,SLC30A8"
+GO:BP,glucose homeostasis,GO:0042593,0.225078841,0.64766533,259,3,2,21017,"PPARG,WFS1"
+GO:BP,carbohydrate homeostasis,GO:0033500,0.226816383,0.644325579,260,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of hormone secretion,GO:0046883,0.22856055,0.640998727,261,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of protein secretion,GO:0050708,0.237380733,0.624554534,266,3,2,21017,"PPARG,SLC30A8"
+GO:BP,homeostatic process,GO:0042592,0.269344436,0.569691991,1711,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,negative regulation of cellular response to transforming growth factor beta stimulus,GO:1903845,0.285442429,0.544481471,4,3,1,21017,PPARG
+GO:BP,regulation of ATF6-mediated unfolded protein response,GO:1903891,0.285442429,0.544481471,4,3,1,21017,WFS1
+GO:BP,regulation of lipid transporter activity,GO:0110112,0.285442429,0.544481471,4,3,1,21017,PPARG
+GO:BP,negative regulation of mitochondrial fission,GO:0090258,0.285442429,0.544481471,4,3,1,21017,PPARG
+GO:BP,positive regulation of secretion by cell,GO:1903532,0.289830249,0.53785629,294,3,2,21017,"PPARG,SLC30A8"
+GO:BP,positive regulation of secretion,GO:0051047,0.336786865,0.472644854,317,3,2,21017,"PPARG,SLC30A8"
+GO:BP,hormone secretion,GO:0046879,0.336786865,0.472644854,317,3,2,21017,"PPARG,SLC30A8"
+GO:BP,negative regulation of vascular endothelial cell proliferation,GO:1905563,0.356786058,0.447592125,5,3,1,21017,PPARG
+GO:BP,positive regulation of low-density lipoprotein receptor activity,GO:1905599,0.356786058,0.447592125,5,3,1,21017,PPARG
+GO:BP,hormone transport,GO:0009914,0.360476776,0.44312271,328,3,2,21017,"PPARG,SLC30A8"
+GO:BP,positive regulation of establishment of protein localization,GO:1904951,0.369288755,0.432633917,332,3,2,21017,"PPARG,SLC30A8"
+GO:BP,negative regulation of cardiac muscle hypertrophy in response to stress,GO:1903243,0.428122896,0.368431545,6,3,1,21017,PPARG
+GO:BP,cellular response to hyperoxia,GO:0071455,0.428122896,0.368431545,6,3,1,21017,PPARG
+GO:BP,negative regulation of cardiac muscle adaptation,GO:0010616,0.428122896,0.368431545,6,3,1,21017,PPARG
+GO:BP,negative regulation of type B pancreatic cell apoptotic process,GO:2000675,0.428122896,0.368431545,6,3,1,21017,WFS1
+GO:BP,regulation of connective tissue replacement,GO:1905203,0.428122896,0.368431545,6,3,1,21017,PPARG
+GO:BP,negative regulation of sequestering of triglyceride,GO:0010891,0.428122896,0.368431545,6,3,1,21017,PPARG
+GO:BP,regulation of localization,GO:0032879,0.433523725,0.362987131,2005,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,protein secretion,GO:0009306,0.455783639,0.341241268,369,3,2,21017,"PPARG,SLC30A8"
+GO:BP,establishment of protein localization to extracellular region,GO:0035592,0.458246016,0.338901302,370,3,2,21017,"PPARG,SLC30A8"
+GO:BP,protein localization to extracellular region,GO:0071692,0.475666111,0.322697789,377,3,2,21017,"PPARG,SLC30A8"
+GO:BP,adiponectin secretion,GO:0070162,0.499452944,0.301505423,7,3,1,21017,PPARG
+GO:BP,regulation of adiponectin secretion,GO:0070163,0.499452944,0.301505423,7,3,1,21017,PPARG
+GO:BP,connective tissue replacement involved in inflammatory response wound healing,GO:0002248,0.499452944,0.301505423,7,3,1,21017,PPARG
+GO:BP,protein maturation by protein folding,GO:0022417,0.570776201,0.243534143,8,3,1,21017,WFS1
+GO:BP,negative regulation of type II interferon-mediated signaling pathway,GO:0060336,0.570776201,0.243534143,8,3,1,21017,PPARG
+GO:BP,negative regulation of response to type II interferon,GO:0060331,0.570776201,0.243534143,8,3,1,21017,PPARG
+GO:BP,insulin processing,GO:0030070,0.570776201,0.243534143,8,3,1,21017,SLC30A8
+GO:BP,regulation of type B pancreatic cell apoptotic process,GO:2000674,0.642092669,0.192402288,9,3,1,21017,WFS1
+GO:BP,ATF6-mediated unfolded protein response,GO:0036500,0.642092669,0.192402288,9,3,1,21017,WFS1
+GO:BP,negative regulation of collagen biosynthetic process,GO:0032966,0.642092669,0.192402288,9,3,1,21017,PPARG
+GO:BP,negative regulation of muscle adaptation,GO:0014745,0.642092669,0.192402288,9,3,1,21017,PPARG
+GO:BP,wound healing involved in inflammatory response,GO:0002246,0.642092669,0.192402288,9,3,1,21017,PPARG
+GO:BP,positive regulation of vascular associated smooth muscle cell apoptotic process,GO:1905461,0.642092669,0.192402288,9,3,1,21017,PPARG
+GO:BP,regulation of protein transport,GO:0051223,0.649786976,0.187228998,441,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of cardiac muscle adaptation,GO:0010612,0.713402348,0.146665466,10,3,1,21017,PPARG
+GO:BP,zinc ion import across plasma membrane,GO:0071578,0.713402348,0.146665466,10,3,1,21017,SLC30A8
+GO:BP,negative regulation of collagen metabolic process,GO:0010713,0.713402348,0.146665466,10,3,1,21017,PPARG
+GO:BP,regulation of cardiac muscle hypertrophy in response to stress,GO:1903242,0.713402348,0.146665466,10,3,1,21017,PPARG
+GO:BP,negative regulation of cholesterol storage,GO:0010887,0.713402348,0.146665466,10,3,1,21017,PPARG
+GO:BP,positive regulation of adipose tissue development,GO:1904179,0.713402348,0.146665466,10,3,1,21017,PPARG
+GO:BP,response to vitamin E,GO:0033197,0.713402348,0.146665466,10,3,1,21017,PPARG
+GO:BP,type B pancreatic cell apoptotic process,GO:0097050,0.713402348,0.146665466,10,3,1,21017,WFS1
+GO:BP,ER overload response,GO:0006983,0.784705237,0.105293449,11,3,1,21017,WFS1
+GO:BP,olfactory behavior,GO:0042048,0.784705237,0.105293449,11,3,1,21017,WFS1
+GO:BP,zinc ion import into organelle,GO:0062111,0.784705237,0.105293449,11,3,1,21017,SLC30A8
+GO:BP,positive regulation of protein localization,GO:1903829,0.810894982,0.091035387,493,3,2,21017,"PPARG,SLC30A8"
+GO:BP,signal release,GO:0023061,0.810894982,0.091035387,493,3,2,21017,"PPARG,SLC30A8"
+GO:BP,negative regulation of acute inflammatory response,GO:0002674,0.856001337,0.067525557,12,3,1,21017,PPARG
+GO:BP,regulation of vascular associated smooth muscle cell apoptotic process,GO:1905459,0.856001337,0.067525557,12,3,1,21017,PPARG
+GO:BP,vascular associated smooth muscle cell apoptotic process,GO:1905288,0.856001337,0.067525557,12,3,1,21017,PPARG
+GO:BP,intracellular monoatomic cation homeostasis,GO:0030003,0.904902135,0.043398387,521,3,2,21017,"WFS1,SLC30A8"
+GO:BP,regulation of vesicle-mediated transport,GO:0060627,0.904902135,0.043398387,521,3,2,21017,"PPARG,SLC30A8"
+GO:BP,negative regulation of extracellular matrix organization,GO:1903054,0.927290649,0.03278412,13,3,1,21017,PPARG
+GO:BP,cellular response to increased oxygen levels,GO:0036295,0.927290649,0.03278412,13,3,1,21017,PPARG
+GO:BP,connective tissue replacement,GO:0097709,0.927290649,0.03278412,13,3,1,21017,PPARG
+GO:BP,negative regulation of macrophage derived foam cell differentiation,GO:0010745,0.927290649,0.03278412,13,3,1,21017,PPARG
+GO:BP,intracellular monoatomic ion homeostasis,GO:0006873,0.936194312,0.028634002,530,3,2,21017,"WFS1,SLC30A8"
+GO:BP,inorganic ion homeostasis,GO:0098771,0.939703479,0.027009165,531,3,2,21017,"WFS1,SLC30A8"
+GO:BP,regulation of establishment of protein localization,GO:0070201,0.968008946,0.014120629,539,3,2,21017,"PPARG,SLC30A8"
+GO:BP,"positive regulation of phagocytosis, engulfment",GO:0060100,0.998573173,0.000620106,14,3,1,21017,PPARG
+GO:BP,positive regulation of membrane invagination,GO:1905155,0.998573173,0.000620106,14,3,1,21017,PPARG
+GO:BP,negative regulation of intrinsic apoptotic signaling pathway,GO:2001243,1,0,109,3,1,21017,WFS1
+GO:BP,regulation of intrinsic apoptotic signaling pathway,GO:2001242,1,0,182,3,1,21017,WFS1
+GO:BP,negative regulation of apoptotic signaling pathway,GO:2001234,1,0,234,3,1,21017,WFS1
+GO:BP,regulation of apoptotic signaling pathway,GO:2001233,1,0,380,3,1,21017,WFS1
+GO:BP,regulation of RNA biosynthetic process,GO:2001141,1,0,3454,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of miRNA metabolic process,GO:2000630,1,0,66,3,1,21017,PPARG
+GO:BP,negative regulation of miRNA metabolic process,GO:2000629,1,0,30,3,1,21017,PPARG
+GO:BP,regulation of miRNA metabolic process,GO:2000628,1,0,91,3,1,21017,PPARG
+GO:BP,negative regulation of signaling receptor activity,GO:2000272,1,0,24,3,1,21017,PPARG
+GO:BP,negative regulation of blood vessel morphogenesis,GO:2000181,1,0,105,3,1,21017,PPARG
+GO:BP,regulation of secretion by cell,GO:1903530,1,0,567,3,2,21017,"PPARG,SLC30A8"
+GO:BP,positive regulation of protein modification by small protein conjugation or removal,GO:1903322,1,0,133,3,1,21017,WFS1
+GO:BP,regulation of protein modification by small protein conjugation or removal,GO:1903320,1,0,241,3,1,21017,WFS1
+GO:BP,mononuclear cell differentiation,GO:1903131,1,0,529,3,1,21017,PPARG
+GO:BP,regulation of extracellular matrix organization,GO:1903053,1,0,62,3,1,21017,PPARG
+GO:BP,positive regulation of proteolysis involved in protein catabolic process,GO:1903052,1,0,138,3,1,21017,WFS1
+GO:BP,regulation of proteolysis involved in protein catabolic process,GO:1903050,1,0,238,3,1,21017,WFS1
+GO:BP,positive regulation of miRNA transcription,GO:1902895,1,0,57,3,1,21017,PPARG
+GO:BP,negative regulation of response to endoplasmic reticulum stress,GO:1903573,1,0,43,3,1,21017,WFS1
+GO:BP,negative regulation of miRNA transcription,GO:1902894,1,0,28,3,1,21017,PPARG
+GO:BP,positive regulation of RNA biosynthetic process,GO:1902680,1,0,1713,3,1,21017,PPARG
+GO:BP,negative regulation of RNA biosynthetic process,GO:1902679,1,0,1352,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of intracellular signal transduction,GO:1902532,1,0,640,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of intracellular signal transduction,GO:1902531,1,0,1935,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,GO:1902236,1,0,20,3,1,21017,WFS1
+GO:BP,regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,GO:1902235,1,0,34,3,1,21017,WFS1
+GO:BP,positive regulation of post-translational protein modification,GO:1901875,1,0,134,3,1,21017,WFS1
+GO:BP,regulation of post-translational protein modification,GO:1901873,1,0,246,3,1,21017,WFS1
+GO:BP,regulation of miRNA transcription,GO:1902893,1,0,76,3,1,21017,PPARG
+GO:BP,regulation of cellular response to transforming growth factor beta stimulus,GO:1903844,1,0,145,3,1,21017,PPARG
+GO:BP,epithelial cell apoptotic process,GO:1904019,1,0,85,3,1,21017,WFS1
+GO:BP,regulation of epithelial cell apoptotic process,GO:1904035,1,0,58,3,1,21017,WFS1
+GO:BP,negative regulation of cell motility,GO:2000146,1,0,304,3,1,21017,PPARG
+GO:BP,regulation of cell motility,GO:2000145,1,0,1000,3,1,21017,PPARG
+GO:BP,regulation of multicellular organismal development,GO:2000026,1,0,1413,3,1,21017,PPARG
+GO:BP,vascular associated smooth muscle cell proliferation,GO:1990874,1,0,63,3,1,21017,PPARG
+GO:BP,positive regulation of lipid localization,GO:1905954,1,0,105,3,1,21017,PPARG
+GO:BP,negative regulation of lipid localization,GO:1905953,1,0,45,3,1,21017,PPARG
+GO:BP,regulation of lipid localization,GO:1905952,1,0,160,3,1,21017,PPARG
+GO:BP,positive regulation of response to endoplasmic reticulum stress,GO:1905898,1,0,37,3,1,21017,WFS1
+GO:BP,regulation of response to endoplasmic reticulum stress,GO:1905897,1,0,83,3,1,21017,WFS1
+GO:BP,regulation of vascular endothelial cell proliferation,GO:1905562,1,0,26,3,1,21017,PPARG
+GO:BP,regulation of membrane invagination,GO:1905153,1,0,16,3,1,21017,PPARG
+GO:BP,negative regulation of receptor signaling pathway via STAT,GO:1904893,1,0,26,3,1,21017,PPARG
+GO:BP,regulation of receptor signaling pathway via STAT,GO:1904892,1,0,106,3,1,21017,PPARG
+GO:BP,negative regulation of vascular associated smooth muscle cell proliferation,GO:1904706,1,0,23,3,1,21017,PPARG
+GO:BP,regulation of vascular associated smooth muscle cell proliferation,GO:1904705,1,0,61,3,1,21017,PPARG
+GO:BP,positive regulation of ERAD pathway,GO:1904294,1,0,16,3,1,21017,WFS1
+GO:BP,regulation of ERAD pathway,GO:1904292,1,0,22,3,1,21017,WFS1
+GO:BP,regulation of adipose tissue development,GO:1904177,1,0,15,3,1,21017,PPARG
+GO:BP,negative regulation of epithelial cell apoptotic process,GO:1904036,1,0,30,3,1,21017,WFS1
+GO:BP,positive regulation of proteasomal protein catabolic process,GO:1901800,1,0,116,3,1,21017,WFS1
+GO:BP,cellular response to oxygen-containing compound,GO:1901701,1,0,1153,3,1,21017,PPARG
+GO:BP,apoptotic signaling pathway,GO:0097190,1,0,606,3,1,21017,WFS1
+GO:BP,cellular response to nitrogen compound,GO:1901699,1,0,618,3,1,21017,PPARG
+GO:BP,positive regulation of biosynthetic process,GO:0009891,1,0,2707,3,1,21017,PPARG
+GO:BP,negative regulation of biosynthetic process,GO:0009890,1,0,2838,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of biosynthetic process,GO:0009889,1,0,5795,3,2,21017,"PPARG,WFS1"
+GO:BP,tissue development,GO:0009888,1,0,2012,3,1,21017,PPARG
+GO:BP,hormone-mediated signaling pathway,GO:0009755,1,0,226,3,1,21017,PPARG
+GO:BP,response to glucose,GO:0009749,1,0,206,3,1,21017,SLC30A8
+GO:BP,response to hexose,GO:0009746,1,0,211,3,1,21017,SLC30A8
+GO:BP,response to carbohydrate,GO:0009743,1,0,242,3,1,21017,SLC30A8
+GO:BP,response to hormone,GO:0009725,1,0,902,3,1,21017,PPARG
+GO:BP,negative regulation of metabolic process,GO:0009892,1,0,3418,3,2,21017,"PPARG,WFS1"
+GO:BP,response to endogenous stimulus,GO:0009719,1,0,1478,3,1,21017,PPARG
+GO:BP,response to abiotic stimulus,GO:0009628,1,0,1130,3,1,21017,PPARG
+GO:BP,response to mechanical stimulus,GO:0009612,1,0,218,3,1,21017,PPARG
+GO:BP,response to wounding,GO:0009611,1,0,564,3,1,21017,PPARG
+GO:BP,response to external stimulus,GO:0009605,1,0,2367,3,2,21017,"PPARG,SLC30A8"
+GO:BP,response to xenobiotic stimulus,GO:0009410,1,0,436,3,1,21017,PPARG
+GO:BP,mRNA transcription,GO:0009299,1,0,53,3,1,21017,PPARG
+GO:BP,macromolecule biosynthetic process,GO:0009059,1,0,9660,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,biosynthetic process,GO:0009058,1,0,10675,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,macromolecule catabolic process,GO:0009057,1,0,1348,3,1,21017,WFS1
+GO:BP,anatomical structure morphogenesis,GO:0009653,1,0,2692,3,1,21017,PPARG
+GO:BP,catabolic process,GO:0009056,1,0,2562,3,1,21017,WFS1
+GO:BP,positive regulation of metabolic process,GO:0009893,1,0,3648,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of catabolic process,GO:0009896,1,0,537,3,1,21017,WFS1
+GO:BP,positive regulation of macromolecule metabolic process,GO:0010604,1,0,3349,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of endothelial cell migration,GO:0010596,1,0,53,3,1,21017,PPARG
+GO:BP,regulation of endothelial cell migration,GO:0010594,1,0,168,3,1,21017,PPARG
+GO:BP,miRNA metabolic process,GO:0010586,1,0,107,3,1,21017,PPARG
+GO:BP,regulation of ketone metabolic process,GO:0010565,1,0,127,3,1,21017,PPARG
+GO:BP,negative regulation of phosphorus metabolic process,GO:0010563,1,0,329,3,1,21017,PPARG
+GO:BP,negative regulation of macromolecule biosynthetic process,GO:0010558,1,0,2772,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of macromolecule biosynthetic process,GO:0010557,1,0,2604,3,1,21017,PPARG
+GO:BP,regulation of macromolecule biosynthetic process,GO:0010556,1,0,5633,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of catabolic process,GO:0009894,1,0,1030,3,1,21017,WFS1
+GO:BP,proteasomal protein catabolic process,GO:0010498,1,0,502,3,1,21017,WFS1
+GO:BP,regulation of gene expression,GO:0010468,1,0,5515,3,2,21017,"PPARG,WFS1"
+GO:BP,gene expression,GO:0010467,1,0,9217,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,membrane invagination,GO:0010324,1,0,66,3,1,21017,PPARG
+GO:BP,response to zinc ion,GO:0010043,1,0,50,3,1,21017,SLC30A8
+GO:BP,response to metal ion,GO:0010038,1,0,360,3,1,21017,SLC30A8
+GO:BP,glial cell differentiation,GO:0010001,1,0,260,3,1,21017,PPARG
+GO:BP,cellular process,GO:0009987,1,0,20203,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,negative regulation of signal transduction,GO:0009968,1,0,1300,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of signal transduction,GO:0009966,1,0,3020,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of signaling receptor activity,GO:0010469,1,0,96,3,1,21017,PPARG
+GO:BP,negative regulation of cell population proliferation,GO:0008285,1,0,705,3,1,21017,PPARG
+GO:BP,cell population proliferation,GO:0008283,1,0,2009,3,1,21017,PPARG
+GO:BP,cell death,GO:0008219,1,0,1984,3,2,21017,"PPARG,WFS1"
+GO:BP,organelle organization,GO:0006996,1,0,3570,3,1,21017,PPARG
+GO:BP,response to unfolded protein,GO:0006986,1,0,137,3,1,21017,WFS1
+GO:BP,ER-nucleus signaling pathway,GO:0006984,1,0,46,3,1,21017,WFS1
+GO:BP,immune response,GO:0006955,1,0,2008,3,2,21017,"PPARG,SLC30A8"
+GO:BP,inflammatory response,GO:0006954,1,0,847,3,1,21017,PPARG
+GO:BP,defense response,GO:0006952,1,0,1809,3,2,21017,"PPARG,SLC30A8"
+GO:BP,response to stress,GO:0006950,1,0,3876,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,apoptotic process,GO:0006915,1,0,1919,3,2,21017,"PPARG,WFS1"
+GO:BP,"phagocytosis, engulfment",GO:0006911,1,0,50,3,1,21017,PPARG
+GO:BP,mitochondrion organization,GO:0007005,1,0,427,3,1,21017,PPARG
+GO:BP,phagocytosis,GO:0006909,1,0,234,3,1,21017,PPARG
+GO:BP,intracellular zinc ion homeostasis,GO:0006882,1,0,36,3,1,21017,SLC30A8
+GO:BP,intracellular calcium ion homeostasis,GO:0006874,1,0,302,3,1,21017,WFS1
+GO:BP,lipid transport,GO:0006869,1,0,431,3,1,21017,PPARG
+GO:BP,zinc ion transport,GO:0006829,1,0,30,3,1,21017,SLC30A8
+GO:BP,calcium ion transport,GO:0006816,1,0,433,3,1,21017,WFS1
+GO:BP,monoatomic cation transport,GO:0006812,1,0,1032,3,2,21017,"WFS1,SLC30A8"
+GO:BP,monoatomic ion transport,GO:0006811,1,0,1256,3,2,21017,"WFS1,SLC30A8"
+GO:BP,transport,GO:0006810,1,0,4341,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,phosphate-containing compound metabolic process,GO:0006796,1,0,2550,3,1,21017,PPARG
+GO:BP,endocytosis,GO:0006897,1,0,704,3,1,21017,PPARG
+GO:BP,cell communication,GO:0007154,1,0,6496,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,signal transduction,GO:0007165,1,0,5979,3,2,21017,"PPARG,WFS1"
+GO:BP,cell surface receptor signaling pathway,GO:0007166,1,0,2803,3,1,21017,PPARG
+GO:BP,regulation of blood pressure,GO:0008217,1,0,186,3,1,21017,PPARG
+GO:BP,metabolic process,GO:0008152,1,0,14188,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,biological_process,GO:0008150,1,0,21017,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,protein localization,GO:0008104,1,0,2738,3,2,21017,"PPARG,SLC30A8"
+GO:BP,blood circulation,GO:0008015,1,0,508,3,1,21017,PPARG
+GO:BP,chemosensory behavior,GO:0007635,1,0,19,3,1,21017,WFS1
+GO:BP,circadian rhythm,GO:0007623,1,0,207,3,1,21017,PPARG
+GO:BP,behavior,GO:0007610,1,0,665,3,1,21017,WFS1
+GO:BP,sensory perception of sound,GO:0007605,1,0,166,3,1,21017,WFS1
+GO:BP,visual perception,GO:0007601,1,0,219,3,1,21017,WFS1
+GO:BP,sensory perception,GO:0007600,1,0,955,3,1,21017,WFS1
+GO:BP,response to nutrient,GO:0007584,1,0,170,3,1,21017,PPARG
+GO:BP,heart development,GO:0007507,1,0,600,3,1,21017,PPARG
+GO:BP,central nervous system development,GO:0007417,1,0,1038,3,1,21017,PPARG
+GO:BP,nervous system development,GO:0007399,1,0,2541,3,1,21017,PPARG
+GO:BP,multicellular organism development,GO:0007275,1,0,4658,3,2,21017,"PPARG,WFS1"
+GO:BP,cell-cell signaling,GO:0007267,1,0,1316,3,2,21017,"PPARG,SLC30A8"
+GO:BP,G protein-coupled receptor signaling pathway,GO:0007186,1,0,1275,3,1,21017,PPARG
+GO:BP,transforming growth factor beta receptor signaling pathway,GO:0007179,1,0,206,3,1,21017,PPARG
+GO:BP,cell surface receptor protein serine/threonine kinase signaling pathway,GO:0007178,1,0,363,3,1,21017,PPARG
+GO:BP,enzyme-linked receptor protein signaling pathway,GO:0007167,1,0,959,3,1,21017,PPARG
+GO:BP,negative regulation of macromolecule metabolic process,GO:0010605,1,0,3197,3,2,21017,"PPARG,WFS1"
+GO:BP,phosphorus metabolic process,GO:0006793,1,0,2553,3,1,21017,PPARG
+GO:BP,post-transcriptional regulation of gene expression,GO:0010608,1,0,1087,3,1,21017,WFS1
+GO:BP,negative regulation of cardiac muscle hypertrophy,GO:0010614,1,0,27,3,1,21017,PPARG
+GO:BP,lipid storage,GO:0019915,1,0,91,3,1,21017,PPARG
+GO:BP,carboxylic acid metabolic process,GO:0019752,1,0,905,3,1,21017,PPARG
+GO:BP,cellular homeostasis,GO:0019725,1,0,826,3,2,21017,"WFS1,SLC30A8"
+GO:BP,protein metabolic process,GO:0019538,1,0,4813,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,fatty acid oxidation,GO:0019395,1,0,108,3,1,21017,PPARG
+GO:BP,regulation of metabolic process,GO:0019222,1,0,7076,3,2,21017,"PPARG,WFS1"
+GO:BP,cytokine-mediated signaling pathway,GO:0019221,1,0,503,3,1,21017,PPARG
+GO:BP,regulation of phosphate metabolic process,GO:0019220,1,0,1071,3,1,21017,PPARG
+GO:BP,regulation of nucleobase-containing compound metabolic process,GO:0019219,1,0,4002,3,2,21017,"PPARG,WFS1"
+GO:BP,developmental maturation,GO:0021700,1,0,343,3,1,21017,PPARG
+GO:BP,regulation of fatty acid metabolic process,GO:0019217,1,0,92,3,1,21017,PPARG
+GO:BP,negative regulation of translation,GO:0017148,1,0,129,3,1,21017,WFS1
+GO:BP,regulation of transforming growth factor beta receptor signaling pathway,GO:0017015,1,0,142,3,1,21017,PPARG
+GO:BP,protein ubiquitination,GO:0016567,1,0,762,3,1,21017,WFS1
+GO:BP,negative regulation of angiogenesis,GO:0016525,1,0,104,3,1,21017,PPARG
+GO:BP,peptide hormone processing,GO:0016486,1,0,36,3,1,21017,SLC30A8
+GO:BP,protein processing,GO:0016485,1,0,241,3,1,21017,SLC30A8
+GO:BP,cell migration,GO:0016477,1,0,1499,3,1,21017,PPARG
+GO:BP,phosphorylation,GO:0016310,1,0,1575,3,1,21017,PPARG
+GO:BP,vesicle-mediated transport,GO:0016192,1,0,1547,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of lipid metabolic process,GO:0019216,1,0,315,3,1,21017,PPARG
+GO:BP,mRNA metabolic process,GO:0016071,1,0,2129,3,1,21017,PPARG
+GO:BP,neurogenesis,GO:0022008,1,0,1746,3,1,21017,PPARG
+GO:BP,cellular component assembly,GO:0022607,1,0,4644,3,1,21017,PPARG
+GO:BP,negative regulation of cell migration,GO:0030336,1,0,288,3,1,21017,PPARG
+GO:BP,regulation of cell migration,GO:0030334,1,0,938,3,1,21017,PPARG
+GO:BP,negative regulation of cell growth,GO:0030308,1,0,191,3,1,21017,PPARG
+GO:BP,cholesterol transport,GO:0030301,1,0,105,3,1,21017,PPARG
+GO:BP,lipid modification,GO:0030258,1,0,191,3,1,21017,PPARG
+GO:BP,monocyte differentiation,GO:0030224,1,0,35,3,1,21017,PPARG
+GO:BP,extracellular matrix organization,GO:0030198,1,0,325,3,1,21017,PPARG
+GO:BP,protein catabolic process,GO:0030163,1,0,973,3,1,21017,WFS1
+GO:BP,regulation of proteolysis,GO:0030162,1,0,435,3,1,21017,WFS1
+GO:BP,regulation of anatomical structure morphogenesis,GO:0022603,1,0,835,3,1,21017,PPARG
+GO:BP,cell differentiation,GO:0030154,1,0,4381,3,1,21017,PPARG
+GO:BP,myeloid cell differentiation,GO:0030099,1,0,439,3,1,21017,PPARG
+GO:BP,hemopoiesis,GO:0030097,1,0,971,3,1,21017,PPARG
+GO:BP,insulin secretion,GO:0030073,1,0,205,3,1,21017,SLC30A8
+GO:BP,peptide hormone secretion,GO:0030072,1,0,249,3,1,21017,SLC30A8
+GO:BP,metal ion transport,GO:0030001,1,0,875,3,2,21017,"WFS1,SLC30A8"
+GO:BP,negative regulation of signaling,GO:0023057,1,0,1407,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of signaling,GO:0023056,1,0,1784,3,2,21017,"PPARG,SLC30A8"
+GO:BP,signaling,GO:0023052,1,0,6471,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,regulation of signaling,GO:0023051,1,0,3446,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,regulation of endocytosis,GO:0030100,1,0,282,3,1,21017,PPARG
+GO:BP,RNA metabolic process,GO:0016070,1,0,6907,3,2,21017,"PPARG,WFS1"
+GO:BP,cell growth,GO:0016049,1,0,500,3,1,21017,PPARG
+GO:BP,cellular component organization,GO:0016043,1,0,8108,3,1,21017,PPARG
+GO:BP,regulation of lipid storage,GO:0010883,1,0,51,3,1,21017,PPARG
+GO:BP,cholesterol storage,GO:0010878,1,0,23,3,1,21017,PPARG
+GO:BP,lipid localization,GO:0010876,1,0,480,3,1,21017,PPARG
+GO:BP,positive regulation of cholesterol efflux,GO:0010875,1,0,26,3,1,21017,PPARG
+GO:BP,regulation of cholesterol efflux,GO:0010874,1,0,37,3,1,21017,PPARG
+GO:BP,regulation of mitochondrion organization,GO:0010821,1,0,116,3,1,21017,PPARG
+GO:BP,regulation of hormone levels,GO:0010817,1,0,548,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of macrophage derived foam cell differentiation,GO:0010743,1,0,31,3,1,21017,PPARG
+GO:BP,macrophage derived foam cell differentiation,GO:0010742,1,0,38,3,1,21017,PPARG
+GO:BP,regulation of cholesterol storage,GO:0010885,1,0,17,3,1,21017,PPARG
+GO:BP,positive regulation of cell development,GO:0010720,1,0,452,3,1,21017,PPARG
+GO:BP,positive regulation of muscle cell apoptotic process,GO:0010661,1,0,29,3,1,21017,PPARG
+GO:BP,regulation of muscle cell apoptotic process,GO:0010660,1,0,75,3,1,21017,PPARG
+GO:BP,muscle cell apoptotic process,GO:0010657,1,0,82,3,1,21017,PPARG
+GO:BP,negative regulation of cell communication,GO:0010648,1,0,1407,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of cell communication,GO:0010647,1,0,1783,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of cell communication,GO:0010646,1,0,3453,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,negative regulation of organelle organization,GO:0010639,1,0,357,3,1,21017,PPARG
+GO:BP,negative regulation of gene expression,GO:0010629,1,0,1640,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of gene expression,GO:0010628,1,0,1189,3,1,21017,PPARG
+GO:BP,regulation of collagen metabolic process,GO:0010712,1,0,39,3,1,21017,PPARG
+GO:BP,negative regulation of lipid storage,GO:0010888,1,0,22,3,1,21017,PPARG
+GO:BP,regulation of sequestering of triglyceride,GO:0010889,1,0,15,3,1,21017,PPARG
+GO:BP,regulation of metal ion transport,GO:0010959,1,0,369,3,1,21017,WFS1
+GO:BP,sterol transport,GO:0015918,1,0,118,3,1,21017,PPARG
+GO:BP,long-chain fatty acid transport,GO:0015909,1,0,68,3,1,21017,PPARG
+GO:BP,fatty acid transport,GO:0015908,1,0,118,3,1,21017,PPARG
+GO:BP,organic hydroxy compound transport,GO:0015850,1,0,283,3,1,21017,PPARG
+GO:BP,organic acid transport,GO:0015849,1,0,345,3,1,21017,PPARG
+GO:BP,peptide transport,GO:0015833,1,0,279,3,1,21017,SLC30A8
+GO:BP,monocarboxylic acid transport,GO:0015718,1,0,179,3,1,21017,PPARG
+GO:BP,organic anion transport,GO:0015711,1,0,442,3,1,21017,PPARG
+GO:BP,protein transport,GO:0015031,1,0,1428,3,2,21017,"PPARG,SLC30A8"
+GO:BP,cardiac muscle hypertrophy in response to stress,GO:0014898,1,0,24,3,1,21017,PPARG
+GO:BP,striated muscle hypertrophy,GO:0014897,1,0,86,3,1,21017,PPARG
+GO:BP,muscle hypertrophy,GO:0014896,1,0,88,3,1,21017,PPARG
+GO:BP,striated muscle adaptation,GO:0014888,1,0,47,3,1,21017,PPARG
+GO:BP,cardiac muscle adaptation,GO:0014887,1,0,24,3,1,21017,PPARG
+GO:BP,regulation of muscle hypertrophy,GO:0014743,1,0,57,3,1,21017,PPARG
+GO:BP,negative regulation of muscle hypertrophy,GO:0014741,1,0,29,3,1,21017,PPARG
+GO:BP,response to purine-containing compound,GO:0014074,1,0,147,3,1,21017,PPARG
+GO:BP,response to organic cyclic compound,GO:0014070,1,0,909,3,1,21017,PPARG
+GO:BP,positive regulation of gliogenesis,GO:0014015,1,0,71,3,1,21017,PPARG
+GO:BP,regulation of gliogenesis,GO:0014013,1,0,106,3,1,21017,PPARG
+GO:BP,programmed cell death,GO:0012501,1,0,1980,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of cardiac muscle hypertrophy,GO:0010611,1,0,54,3,1,21017,PPARG
+GO:BP,BMP signaling pathway,GO:0030509,1,0,153,3,1,21017,PPARG
+GO:BP,fatty acid metabolic process,GO:0006631,1,0,398,3,1,21017,PPARG
+GO:BP,proteolysis,GO:0006508,1,0,1457,3,2,21017,"WFS1,SLC30A8"
+GO:BP,lipid metabolic process,GO:0006629,1,0,1379,3,1,21017,PPARG
+GO:BP,regulation of immune system process,GO:0002682,1,0,1526,3,1,21017,PPARG
+GO:BP,regulation of acute inflammatory response,GO:0002673,1,0,47,3,1,21017,PPARG
+GO:BP,myeloid leukocyte differentiation,GO:0002573,1,0,239,3,1,21017,PPARG
+GO:BP,acute inflammatory response,GO:0002526,1,0,109,3,1,21017,PPARG
+GO:BP,leukocyte differentiation,GO:0002521,1,0,632,3,1,21017,PPARG
+GO:BP,immune system process,GO:0002376,1,0,2796,3,2,21017,"PPARG,SLC30A8"
+GO:BP,negative regulation of cytokine-mediated signaling pathway,GO:0001960,1,0,80,3,1,21017,PPARG
+GO:BP,regulation of cytokine-mediated signaling pathway,GO:0001959,1,0,160,3,1,21017,PPARG
+GO:BP,vasculature development,GO:0001944,1,0,755,3,1,21017,PPARG
+GO:BP,negative regulation of immune system process,GO:0002683,1,0,502,3,1,21017,PPARG
+GO:BP,negative regulation of endothelial cell proliferation,GO:0001937,1,0,43,3,1,21017,PPARG
+GO:BP,endothelial cell proliferation,GO:0001935,1,0,161,3,1,21017,PPARG
+GO:BP,negative regulation of protein phosphorylation,GO:0001933,1,0,270,3,1,21017,PPARG
+GO:BP,regulation of protein phosphorylation,GO:0001932,1,0,901,3,1,21017,PPARG
+GO:BP,placenta development,GO:0001890,1,0,151,3,1,21017,PPARG
+GO:BP,kidney development,GO:0001822,1,0,321,3,1,21017,WFS1
+GO:BP,response to hypoxia,GO:0001666,1,0,302,3,1,21017,PPARG
+GO:BP,osteoblast differentiation,GO:0001649,1,0,232,3,1,21017,PPARG
+GO:BP,blood vessel development,GO:0001568,1,0,725,3,1,21017,PPARG
+GO:BP,regulation of cell growth,GO:0001558,1,0,425,3,1,21017,PPARG
+GO:BP,regulation of endothelial cell proliferation,GO:0001936,1,0,136,3,1,21017,PPARG
+GO:BP,angiogenesis,GO:0001525,1,0,541,3,1,21017,PPARG
+GO:BP,peptide secretion,GO:0002790,1,0,254,3,1,21017,SLC30A8
+GO:BP,positive regulation of peptide secretion,GO:0002793,1,0,115,3,1,21017,SLC30A8
+GO:BP,negative regulation of protein kinase activity,GO:0006469,1,0,149,3,1,21017,PPARG
+GO:BP,protein phosphorylation,GO:0006468,1,0,1341,3,1,21017,PPARG
+GO:BP,protein folding,GO:0006457,1,0,219,3,1,21017,WFS1
+GO:BP,regulation of translation,GO:0006417,1,0,378,3,1,21017,WFS1
+GO:BP,translation,GO:0006412,1,0,721,3,1,21017,WFS1
+GO:BP,transcription by RNA polymerase II,GO:0006366,1,0,2698,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of transcription by RNA polymerase II,GO:0006357,1,0,2572,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of DNA-templated transcription,GO:0006355,1,0,3435,3,2,21017,"PPARG,WFS1"
+GO:BP,DNA-templated transcription,GO:0006351,1,0,3559,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of peptide secretion,GO:0002791,1,0,207,3,1,21017,SLC30A8
+GO:BP,nucleobase-containing compound metabolic process,GO:0006139,1,0,8016,3,2,21017,"PPARG,WFS1"
+GO:BP,cardiac muscle hypertrophy,GO:0003300,1,0,83,3,1,21017,PPARG
+GO:BP,muscle hypertrophy in response to stress,GO:0003299,1,0,24,3,1,21017,PPARG
+GO:BP,renal water homeostasis,GO:0003091,1,0,24,3,1,21017,WFS1
+GO:BP,renal system process,GO:0003014,1,0,127,3,1,21017,WFS1
+GO:BP,circulatory system process,GO:0003013,1,0,593,3,1,21017,PPARG
+GO:BP,muscle system process,GO:0003012,1,0,432,3,1,21017,PPARG
+GO:BP,system process,GO:0003008,1,0,2266,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of response to biotic stimulus,GO:0002832,1,0,117,3,1,21017,PPARG
+GO:BP,regulation of response to biotic stimulus,GO:0002831,1,0,515,3,1,21017,PPARG
+GO:BP,organic acid metabolic process,GO:0006082,1,0,933,3,1,21017,PPARG
+GO:BP,ossification,GO:0001503,1,0,425,3,1,21017,PPARG
+GO:BP,mitochondrial fission,GO:0000266,1,0,41,3,1,21017,PPARG
+GO:BP,MAPK cascade,GO:0000165,1,0,749,3,1,21017,PPARG
+GO:BP,negative regulation of transcription by RNA polymerase II,GO:0000122,1,0,992,3,2,21017,"PPARG,WFS1"
+GO:BP,transition metal ion transport,GO:0000041,1,0,99,3,1,21017,SLC30A8
+GO:BP,regulation of BMP signaling pathway,GO:0030510,1,0,106,3,1,21017,PPARG
+GO:BP,negative regulation of transforming growth factor beta receptor signaling pathway,GO:0030512,1,0,95,3,1,21017,PPARG
+GO:BP,negative regulation of BMP signaling pathway,GO:0030514,1,0,58,3,1,21017,PPARG
+GO:BP,regulation of calcium ion transport,GO:0051924,1,0,241,3,1,21017,WFS1
+GO:BP,cellular response to stimulus,GO:0051716,1,0,7320,3,2,21017,"PPARG,WFS1"
+GO:BP,response to other organism,GO:0051707,1,0,1555,3,2,21017,"PPARG,SLC30A8"
+GO:BP,cellular localization,GO:0051641,1,0,3625,3,2,21017,"PPARG,SLC30A8"
+GO:BP,protein maturation,GO:0051604,1,0,571,3,2,21017,"WFS1,SLC30A8"
+GO:BP,proteolysis involved in protein catabolic process,GO:0051603,1,0,732,3,1,21017,WFS1
+GO:BP,neuron apoptotic process,GO:0051402,1,0,281,3,1,21017,WFS1
+GO:BP,negative regulation of transferase activity,GO:0051348,1,0,180,3,1,21017,PPARG
+GO:BP,regulation of transferase activity,GO:0051338,1,0,539,3,1,21017,PPARG
+GO:BP,positive regulation of calcium ion transport,GO:0051928,1,0,119,3,1,21017,WFS1
+GO:BP,positive regulation of RNA metabolic process,GO:0051254,1,0,1844,3,1,21017,PPARG
+GO:BP,regulation of RNA metabolic process,GO:0051252,1,0,3709,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of protein metabolic process,GO:0051248,1,0,708,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of protein metabolic process,GO:0051247,1,0,1152,3,1,21017,WFS1
+GO:BP,regulation of protein metabolic process,GO:0051246,1,0,1975,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of multicellular organismal process,GO:0051241,1,0,1088,3,1,21017,PPARG
+GO:BP,positive regulation of multicellular organismal process,GO:0051240,1,0,1644,3,1,21017,PPARG
+GO:BP,regulation of multicellular organismal process,GO:0051239,1,0,2928,3,1,21017,PPARG
+GO:BP,maintenance of location,GO:0051235,1,0,334,3,1,21017,PPARG
+GO:BP,establishment of localization,GO:0051234,1,0,4869,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,negative regulation of RNA metabolic process,GO:0051253,1,0,1457,3,2,21017,"PPARG,WFS1"
+GO:BP,localization,GO:0051179,1,0,5521,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,regulation of nervous system development,GO:0051960,1,0,463,3,1,21017,PPARG
+GO:BP,calcium ion homeostasis,GO:0055074,1,0,326,3,1,21017,WFS1
+GO:BP,negative regulation of response to cytokine stimulus,GO:0060761,1,0,84,3,1,21017,PPARG
+GO:BP,regulation of response to cytokine stimulus,GO:0060759,1,0,171,3,1,21017,PPARG
+GO:BP,adipose tissue development,GO:0060612,1,0,58,3,1,21017,PPARG
+GO:BP,epithelium development,GO:0060429,1,0,1229,3,1,21017,PPARG
+GO:BP,SMAD protein signal transduction,GO:0060395,1,0,80,3,1,21017,PPARG
+GO:BP,negative regulation of SMAD protein signal transduction,GO:0060392,1,0,21,3,1,21017,PPARG
+GO:BP,regulation of SMAD protein signal transduction,GO:0060390,1,0,59,3,1,21017,PPARG
+GO:BP,regulation of cellular localization,GO:0060341,1,0,997,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of type II interferon-mediated signaling pathway,GO:0060334,1,0,15,3,1,21017,PPARG
+GO:BP,positive regulation of nervous system development,GO:0051962,1,0,292,3,1,21017,PPARG
+GO:BP,type II interferon-mediated signaling pathway,GO:0060333,1,0,27,3,1,21017,PPARG
+GO:BP,regulation of cell development,GO:0060284,1,0,851,3,1,21017,PPARG
+GO:BP,regulation of macromolecule metabolic process,GO:0060255,1,0,6535,3,2,21017,"PPARG,WFS1"
+GO:BP,"regulation of phagocytosis, engulfment",GO:0060099,1,0,16,3,1,21017,PPARG
+GO:BP,response to lipoprotein particle,GO:0055094,1,0,31,3,1,21017,PPARG
+GO:BP,response to hyperoxia,GO:0055093,1,0,22,3,1,21017,PPARG
+GO:BP,lipid homeostasis,GO:0055088,1,0,162,3,1,21017,PPARG
+GO:BP,transmembrane transport,GO:0055085,1,0,1538,3,1,21017,SLC30A8
+GO:BP,intracellular chemical homeostasis,GO:0055082,1,0,723,3,2,21017,"WFS1,SLC30A8"
+GO:BP,monoatomic cation homeostasis,GO:0055080,1,0,598,3,2,21017,"WFS1,SLC30A8"
+GO:BP,regulation of response to type II interferon,GO:0060330,1,0,15,3,1,21017,PPARG
+GO:BP,regulation of phosphorus metabolic process,GO:0051174,1,0,1072,3,1,21017,PPARG
+GO:BP,positive regulation of cellular component organization,GO:0051130,1,0,1093,3,1,21017,PPARG
+GO:BP,negative regulation of cellular component organization,GO:0051129,1,0,719,3,1,21017,PPARG
+GO:BP,regulation of immune response,GO:0050776,1,0,897,3,1,21017,PPARG
+GO:BP,positive regulation of neurogenesis,GO:0050769,1,0,244,3,1,21017,PPARG
+GO:BP,regulation of neurogenesis,GO:0050767,1,0,388,3,1,21017,PPARG
+GO:BP,positive regulation of phagocytosis,GO:0050766,1,0,69,3,1,21017,PPARG
+GO:BP,regulation of phagocytosis,GO:0050764,1,0,97,3,1,21017,PPARG
+GO:BP,negative regulation of inflammatory response,GO:0050728,1,0,163,3,1,21017,PPARG
+GO:BP,regulation of inflammatory response,GO:0050727,1,0,381,3,1,21017,PPARG
+GO:BP,negative regulation of epithelial cell proliferation,GO:0050680,1,0,136,3,1,21017,PPARG
+GO:BP,regulation of epithelial cell proliferation,GO:0050678,1,0,363,3,1,21017,PPARG
+GO:BP,negative regulation of immune response,GO:0050777,1,0,192,3,1,21017,PPARG
+GO:BP,epithelial cell proliferation,GO:0050673,1,0,442,3,1,21017,PPARG
+GO:BP,cell motility,GO:0048870,1,0,1716,3,1,21017,PPARG
+GO:BP,cellular developmental process,GO:0048869,1,0,4382,3,1,21017,PPARG
+GO:BP,anatomical structure development,GO:0048856,1,0,5924,3,2,21017,"PPARG,WFS1"
+GO:BP,tissue remodeling,GO:0048771,1,0,180,3,1,21017,PPARG
+GO:BP,system development,GO:0048731,1,0,3985,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of oligodendrocyte differentiation,GO:0048714,1,0,29,3,1,21017,PPARG
+GO:BP,regulation of oligodendrocyte differentiation,GO:0048713,1,0,47,3,1,21017,PPARG
+GO:BP,oligodendrocyte differentiation,GO:0048709,1,0,107,3,1,21017,PPARG
+GO:BP,negative regulation of smooth muscle cell proliferation,GO:0048662,1,0,50,3,1,21017,PPARG
+GO:BP,multicellular organismal-level homeostasis,GO:0048871,1,0,809,3,1,21017,WFS1
+GO:BP,regulation of biological process,GO:0050789,1,0,12278,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,regulation of catalytic activity,GO:0050790,1,0,1015,3,1,21017,PPARG
+GO:BP,regulation of developmental process,GO:0050793,1,0,2453,3,1,21017,PPARG
+GO:BP,regulation of cellular component organization,GO:0051128,1,0,2398,3,1,21017,PPARG
+GO:BP,regulation of DNA binding,GO:0051101,1,0,77,3,1,21017,PPARG
+GO:BP,positive regulation of binding,GO:0051099,1,0,116,3,1,21017,PPARG
+GO:BP,regulation of binding,GO:0051098,1,0,231,3,1,21017,PPARG
+GO:BP,positive regulation of developmental process,GO:0051094,1,0,1331,3,1,21017,PPARG
+GO:BP,negative regulation of developmental process,GO:0051093,1,0,928,3,1,21017,PPARG
+GO:BP,positive regulation of DNA-binding transcription factor activity,GO:0051091,1,0,209,3,1,21017,PPARG
+GO:BP,regulation of DNA-binding transcription factor activity,GO:0051090,1,0,346,3,1,21017,PPARG
+GO:BP,regulation of secretion,GO:0051046,1,0,621,3,2,21017,"PPARG,SLC30A8"
+GO:BP,sensory perception of mechanical stimulus,GO:0050954,1,0,190,3,1,21017,WFS1
+GO:BP,sensory perception of light stimulus,GO:0050953,1,0,222,3,1,21017,WFS1
+GO:BP,response to stimulus,GO:0050896,1,0,8993,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,multicellular organismal-level water homeostasis,GO:0050891,1,0,33,3,1,21017,WFS1
+GO:BP,endocrine process,GO:0050886,1,0,93,3,1,21017,PPARG
+GO:BP,regulation of body fluid levels,GO:0050878,1,0,371,3,1,21017,WFS1
+GO:BP,nervous system process,GO:0050877,1,0,1489,3,1,21017,WFS1
+GO:BP,white fat cell differentiation,GO:0050872,1,0,18,3,1,21017,PPARG
+GO:BP,protein stabilization,GO:0050821,1,0,216,3,1,21017,WFS1
+GO:BP,monoatomic ion homeostasis,GO:0050801,1,0,608,3,2,21017,"WFS1,SLC30A8"
+GO:BP,regulation of insulin secretion,GO:0050796,1,0,172,3,1,21017,SLC30A8
+GO:BP,regulation of cellular process,GO:0050794,1,0,11876,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,endocrine hormone secretion,GO:0060986,1,0,57,3,1,21017,PPARG
+GO:BP,regulation of smooth muscle cell proliferation,GO:0048660,1,0,140,3,1,21017,PPARG
+GO:BP,membrane organization,GO:0061024,1,0,822,3,1,21017,PPARG
+GO:BP,connective tissue development,GO:0061448,1,0,292,3,1,21017,PPARG
+GO:BP,inorganic cation transmembrane transport,GO:0098662,1,0,811,3,1,21017,SLC30A8
+GO:BP,inorganic ion transmembrane transport,GO:0098660,1,0,903,3,1,21017,SLC30A8
+GO:BP,inorganic cation import across plasma membrane,GO:0098659,1,0,126,3,1,21017,SLC30A8
+GO:BP,import into cell,GO:0098657,1,0,921,3,2,21017,"PPARG,SLC30A8"
+GO:BP,monoatomic cation transmembrane transport,GO:0098655,1,0,832,3,1,21017,SLC30A8
+GO:BP,defense response to other organism,GO:0098542,1,0,1228,3,2,21017,"PPARG,SLC30A8"
+GO:BP,cell surface receptor signaling pathway via STAT,GO:0097696,1,0,176,3,1,21017,PPARG
+GO:BP,cellular response to alcohol,GO:0097306,1,0,106,3,1,21017,PPARG
+GO:BP,response to alcohol,GO:0097305,1,0,262,3,1,21017,PPARG
+GO:BP,import across plasma membrane,GO:0098739,1,0,199,3,1,21017,SLC30A8
+GO:BP,intrinsic apoptotic signaling pathway,GO:0097193,1,0,315,3,1,21017,WFS1
+GO:BP,inflammatory response to wounding,GO:0090594,1,0,27,3,1,21017,PPARG
+GO:BP,nucleic acid metabolic process,GO:0090304,1,0,7460,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of cellular response to growth factor stimulus,GO:0090288,1,0,103,3,1,21017,PPARG
+GO:BP,regulation of cellular response to growth factor stimulus,GO:0090287,1,0,320,3,1,21017,PPARG
+GO:BP,positive regulation of peptide hormone secretion,GO:0090277,1,0,113,3,1,21017,SLC30A8
+GO:BP,regulation of peptide hormone secretion,GO:0090276,1,0,204,3,1,21017,SLC30A8
+GO:BP,regulation of muscle system process,GO:0090257,1,0,227,3,1,21017,PPARG
+GO:BP,regulation of mitochondrial fission,GO:0090140,1,0,30,3,1,21017,PPARG
+GO:BP,negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,GO:0090101,1,0,149,3,1,21017,PPARG
+GO:BP,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,GO:0090092,1,0,264,3,1,21017,PPARG
+GO:BP,plasma membrane invagination,GO:0099024,1,0,59,3,1,21017,PPARG
+GO:BP,vascular endothelial cell proliferation,GO:0101023,1,0,26,3,1,21017,PPARG
+GO:BP,response to nitrogen compound,GO:1901698,1,0,1010,3,2,21017,"PPARG,WFS1"
+GO:BP,cellular response to ketone,GO:1901655,1,0,111,3,1,21017,PPARG
+GO:BP,response to ketone,GO:1901654,1,0,221,3,1,21017,PPARG
+GO:BP,response to peptide,GO:1901652,1,0,950,3,2,21017,"PPARG,SLC30A8"
+GO:BP,negative regulation of vasculature development,GO:1901343,1,0,106,3,1,21017,PPARG
+GO:BP,regulation of vasculature development,GO:1901342,1,0,295,3,1,21017,PPARG
+GO:BP,regulation of extracellular matrix assembly,GO:1901201,1,0,20,3,1,21017,PPARG
+GO:BP,insulin metabolic process,GO:1901142,1,0,16,3,1,21017,SLC30A8
+GO:BP,negative regulation of endoplasmic reticulum unfolded protein response,GO:1900102,1,0,16,3,1,21017,WFS1
+GO:BP,inorganic ion import across plasma membrane,GO:0099587,1,0,126,3,1,21017,SLC30A8
+GO:BP,regulation of endoplasmic reticulum unfolded protein response,GO:1900101,1,0,31,3,1,21017,WFS1
+GO:BP,nuclear receptor-mediated signaling pathway,GO:0141193,1,0,179,3,1,21017,PPARG
+GO:BP,nucleic acid biosynthetic process,GO:0141187,1,0,6822,3,2,21017,"PPARG,WFS1"
+GO:BP,intracellular signaling cassette,GO:0141124,1,0,1895,3,1,21017,PPARG
+GO:BP,transforming growth factor beta receptor superfamily signaling pathway,GO:0141091,1,0,341,3,1,21017,PPARG
+GO:BP,multicellular organismal-level chemical homeostasis,GO:0140962,1,0,74,3,1,21017,WFS1
+GO:BP,interferon-mediated signaling pathway,GO:0140888,1,0,107,3,1,21017,PPARG
+GO:BP,defense response to symbiont,GO:0140546,1,0,1125,3,2,21017,"PPARG,SLC30A8"
+GO:BP,signaling receptor ligand precursor processing,GO:0140448,1,0,40,3,1,21017,SLC30A8
+GO:BP,export from cell,GO:0140352,1,0,901,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of cellular response to insulin stimulus,GO:1900076,1,0,67,3,1,21017,PPARG
+GO:BP,regulation of peptide transport,GO:0090087,1,0,209,3,1,21017,SLC30A8
+GO:BP,foam cell differentiation,GO:0090077,1,0,38,3,1,21017,PPARG
+GO:BP,extracellular matrix assembly,GO:0085029,1,0,47,3,1,21017,PPARG
+GO:BP,cellular response to growth factor stimulus,GO:0071363,1,0,682,3,1,21017,PPARG
+GO:BP,cellular response to type II interferon,GO:0071346,1,0,125,3,1,21017,PPARG
+GO:BP,cellular response to cytokine stimulus,GO:0071345,1,0,843,3,1,21017,PPARG
+GO:BP,cellular response to retinoic acid,GO:0071300,1,0,70,3,1,21017,PPARG
+GO:BP,cellular response to vitamin,GO:0071295,1,0,31,3,1,21017,PPARG
+GO:BP,cellular response to biotic stimulus,GO:0071216,1,0,251,3,1,21017,WFS1
+GO:BP,cellular response to chemical stimulus,GO:0070887,1,0,2186,3,1,21017,PPARG
+GO:BP,response to growth factor,GO:0070848,1,0,713,3,1,21017,PPARG
+GO:BP,cellular macromolecule localization,GO:0070727,1,0,2749,3,2,21017,"PPARG,SLC30A8"
+GO:BP,cellular response to peptide hormone stimulus,GO:0071375,1,0,307,3,1,21017,PPARG
+GO:BP,protein modification by small protein conjugation or removal,GO:0070647,1,0,962,3,1,21017,WFS1
+GO:BP,response to oxygen levels,GO:0070482,1,0,345,3,1,21017,PPARG
+GO:BP,intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress,GO:0070059,1,0,66,3,1,21017,WFS1
+GO:BP,regulation of molecular function,GO:0065009,1,0,1611,3,1,21017,PPARG
+GO:BP,regulation of biological quality,GO:0065008,1,0,2847,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,biological regulation,GO:0065007,1,0,12671,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,cellular response to chemical stress,GO:0062197,1,0,314,3,1,21017,PPARG
+GO:BP,positive regulation of small molecule metabolic process,GO:0062013,1,0,138,3,1,21017,PPARG
+GO:BP,regulation of small molecule metabolic process,GO:0062012,1,0,314,3,1,21017,PPARG
+GO:BP,miRNA transcription,GO:0061614,1,0,77,3,1,21017,PPARG
+GO:BP,response to interleukin-1,GO:0070555,1,0,132,3,1,21017,SLC30A8
+GO:BP,cellular response to prostaglandin stimulus,GO:0071379,1,0,23,3,1,21017,PPARG
+GO:BP,cellular response to prostaglandin E stimulus,GO:0071380,1,0,18,3,1,21017,PPARG
+GO:BP,cellular response to lipid,GO:0071396,1,0,609,3,1,21017,PPARG
+GO:BP,regulation of cellular response to stress,GO:0080135,1,0,512,3,1,21017,WFS1
+GO:BP,regulation of response to stress,GO:0080134,1,0,1354,3,2,21017,"PPARG,WFS1"
+GO:BP,regulation of primary metabolic process,GO:0080090,1,0,5486,3,2,21017,"PPARG,WFS1"
+GO:BP,circulatory system development,GO:0072359,1,0,1134,3,1,21017,PPARG
+GO:BP,renal system development,GO:0072001,1,0,331,3,1,21017,WFS1
+GO:BP,negative regulation of protein serine/threonine kinase activity,GO:0071901,1,0,81,3,1,21017,PPARG
+GO:BP,regulation of protein serine/threonine kinase activity,GO:0071900,1,0,260,3,1,21017,PPARG
+GO:BP,cellular component organization or biogenesis,GO:0071840,1,0,8323,3,1,21017,PPARG
+GO:BP,cellular response to BMP stimulus,GO:0071773,1,0,164,3,1,21017,PPARG
+GO:BP,response to BMP,GO:0071772,1,0,164,3,1,21017,PPARG
+GO:BP,nitrogen compound transport,GO:0071705,1,0,1909,3,2,21017,"PPARG,SLC30A8"
+GO:BP,anatomical structure maturation,GO:0071695,1,0,274,3,1,21017,PPARG
+GO:BP,zinc ion transmembrane transport,GO:0071577,1,0,29,3,1,21017,SLC30A8
+GO:BP,cellular response to transforming growth factor beta stimulus,GO:0071560,1,0,261,3,1,21017,PPARG
+GO:BP,response to transforming growth factor beta,GO:0071559,1,0,268,3,1,21017,PPARG
+GO:BP,cellular response to endogenous stimulus,GO:0071495,1,0,1215,3,1,21017,PPARG
+GO:BP,cellular response to hypoxia,GO:0071456,1,0,143,3,1,21017,PPARG
+GO:BP,cellular response to oxygen levels,GO:0071453,1,0,167,3,1,21017,PPARG
+GO:BP,cellular response to organic cyclic compound,GO:0071407,1,0,536,3,1,21017,PPARG
+GO:BP,cellular response to low-density lipoprotein particle stimulus,GO:0071404,1,0,30,3,1,21017,PPARG
+GO:BP,cellular response to lipoprotein particle stimulus,GO:0071402,1,0,34,3,1,21017,PPARG
+GO:BP,regulation of proteasomal protein catabolic process,GO:0061136,1,0,198,3,1,21017,WFS1
+GO:BP,smooth muscle cell proliferation,GO:0048659,1,0,144,3,1,21017,PPARG
+GO:BP,anatomical structure formation involved in morphogenesis,GO:0048646,1,0,1181,3,1,21017,PPARG
+GO:BP,negative regulation of response to stimulus,GO:0048585,1,0,1663,3,2,21017,"PPARG,WFS1"
+GO:BP,tube development,GO:0035295,1,0,1092,3,1,21017,PPARG
+GO:BP,tube morphogenesis,GO:0035239,1,0,872,3,1,21017,PPARG
+GO:BP,response to endoplasmic reticulum stress,GO:0034976,1,0,231,3,1,21017,WFS1
+GO:BP,response to prostaglandin E,GO:0034695,1,0,26,3,1,21017,PPARG
+GO:BP,response to prostaglandin,GO:0034694,1,0,34,3,1,21017,PPARG
+GO:BP,nucleobase-containing compound biosynthetic process,GO:0034654,1,0,7112,3,2,21017,"PPARG,WFS1"
+GO:BP,cellular response to unfolded protein,GO:0034620,1,0,92,3,1,21017,WFS1
+GO:BP,lipid oxidation,GO:0034440,1,0,114,3,1,21017,PPARG
+GO:BP,positive regulation of smooth muscle cell apoptotic process,GO:0034393,1,0,16,3,1,21017,PPARG
+GO:BP,peroxisome proliferator activated receptor signaling pathway,GO:0035357,1,0,23,3,1,21017,PPARG
+GO:BP,regulation of smooth muscle cell apoptotic process,GO:0034391,1,0,30,3,1,21017,PPARG
+GO:BP,response to monosaccharide,GO:0034284,1,0,218,3,1,21017,SLC30A8
+GO:BP,monoatomic ion transmembrane transport,GO:0034220,1,0,1017,3,1,21017,SLC30A8
+GO:BP,negative regulation of tissue remodeling,GO:0034104,1,0,23,3,1,21017,PPARG
+GO:BP,regulation of tissue remodeling,GO:0034103,1,0,77,3,1,21017,PPARG
+GO:BP,response to cytokine,GO:0034097,1,0,937,3,2,21017,"PPARG,SLC30A8"
+GO:BP,response to lipid,GO:0033993,1,0,921,3,1,21017,PPARG
+GO:BP,negative regulation of kinase activity,GO:0033673,1,0,158,3,1,21017,PPARG
+GO:BP,cellular response to stress,GO:0033554,1,0,1786,3,2,21017,"PPARG,WFS1"
+GO:BP,cholesterol efflux,GO:0033344,1,0,57,3,1,21017,PPARG
+GO:BP,smooth muscle cell apoptotic process,GO:0034390,1,0,31,3,1,21017,PPARG
+GO:BP,response to vitamin,GO:0033273,1,0,94,3,1,21017,PPARG
+GO:BP,intracellular signal transduction,GO:0035556,1,0,2946,3,2,21017,"PPARG,WFS1"
+GO:BP,response to topologically incorrect protein,GO:0035966,1,0,152,3,1,21017,WFS1
+GO:BP,hormone metabolic process,GO:0042445,1,0,243,3,1,21017,SLC30A8
+GO:BP,negative regulation of phosphorylation,GO:0042326,1,0,288,3,1,21017,PPARG
+GO:BP,regulation of phosphorylation,GO:0042325,1,0,954,3,1,21017,PPARG
+GO:BP,response to chemical,GO:0042221,1,0,3867,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,ketone metabolic process,GO:0042180,1,0,214,3,1,21017,PPARG
+GO:BP,regulation of protein catabolic process,GO:0042176,1,0,372,3,1,21017,WFS1
+GO:BP,regulation of cell population proliferation,GO:0042127,1,0,1682,3,1,21017,PPARG
+GO:BP,gliogenesis,GO:0042063,1,0,346,3,1,21017,PPARG
+GO:BP,wound healing,GO:0042060,1,0,430,3,1,21017,PPARG
+GO:BP,response to immobilization stress,GO:0035902,1,0,29,3,1,21017,PPARG
+GO:BP,negative regulation of locomotion,GO:0040013,1,0,339,3,1,21017,PPARG
+GO:BP,locomotion,GO:0040011,1,0,1238,3,1,21017,PPARG
+GO:BP,regulation of growth,GO:0040008,1,0,621,3,2,21017,"PPARG,WFS1"
+GO:BP,growth,GO:0040007,1,0,941,3,2,21017,"PPARG,WFS1"
+GO:BP,ERAD pathway,GO:0036503,1,0,68,3,1,21017,WFS1
+GO:BP,response to increased oxygen levels,GO:0036296,1,0,29,3,1,21017,PPARG
+GO:BP,cellular response to decreased oxygen levels,GO:0036294,1,0,150,3,1,21017,PPARG
+GO:BP,response to decreased oxygen levels,GO:0036293,1,0,316,3,1,21017,PPARG
+GO:BP,protein modification process,GO:0036211,1,0,2947,3,2,21017,"PPARG,WFS1"
+GO:BP,cellular response to topologically incorrect protein,GO:0035967,1,0,105,3,1,21017,WFS1
+GO:BP,regulation of locomotion,GO:0040012,1,0,1042,3,1,21017,PPARG
+GO:BP,response to vitamin A,GO:0033189,1,0,17,3,1,21017,PPARG
+GO:BP,regulation of organelle organization,GO:0033043,1,0,1139,3,1,21017,PPARG
+GO:BP,macromolecule localization,GO:0033036,1,0,3211,3,2,21017,"PPARG,SLC30A8"
+GO:BP,positive regulation of insulin secretion,GO:0032024,1,0,87,3,1,21017,SLC30A8
+GO:BP,cellular response to nutrient,GO:0031670,1,0,50,3,1,21017,PPARG
+GO:BP,cellular response to nutrient levels,GO:0031669,1,0,246,3,1,21017,PPARG
+GO:BP,response to nutrient levels,GO:0031667,1,0,501,3,1,21017,PPARG
+GO:BP,regulation of protein stability,GO:0031647,1,0,325,3,1,21017,WFS1
+GO:BP,positive regulation of protein modification process,GO:0031401,1,0,751,3,1,21017,WFS1
+GO:BP,negative regulation of protein modification process,GO:0031400,1,0,373,3,1,21017,PPARG
+GO:BP,regulation of protein modification process,GO:0031399,1,0,1166,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of protein ubiquitination,GO:0031398,1,0,110,3,1,21017,WFS1
+GO:BP,regulation of response to external stimulus,GO:0032101,1,0,1071,3,1,21017,PPARG
+GO:BP,regulation of protein ubiquitination,GO:0031396,1,0,198,3,1,21017,WFS1
+GO:BP,regulation of defense response,GO:0031347,1,0,783,3,1,21017,PPARG
+GO:BP,animal organ regeneration,GO:0031100,1,0,68,3,1,21017,PPARG
+GO:BP,regeneration,GO:0031099,1,0,201,3,1,21017,PPARG
+GO:BP,pancreas development,GO:0031016,1,0,80,3,1,21017,WFS1
+GO:BP,response to caffeine,GO:0031000,1,0,16,3,1,21017,PPARG
+GO:BP,endoplasmic reticulum unfolded protein response,GO:0030968,1,0,77,3,1,21017,WFS1
+GO:BP,epithelial cell differentiation,GO:0030855,1,0,741,3,1,21017,PPARG
+GO:BP,sequestering of triglyceride,GO:0030730,1,0,18,3,1,21017,PPARG
+GO:BP,intracellular receptor signaling pathway,GO:0030522,1,0,367,3,1,21017,PPARG
+GO:BP,negative regulation of defense response,GO:0031348,1,0,252,3,1,21017,PPARG
+GO:BP,negative regulation of response to external stimulus,GO:0032102,1,0,403,3,1,21017,PPARG
+GO:BP,regulation of lipid transport,GO:0032368,1,0,130,3,1,21017,PPARG
+GO:BP,positive regulation of lipid transport,GO:0032370,1,0,83,3,1,21017,PPARG
+GO:BP,muscle cell proliferation,GO:0033002,1,0,209,3,1,21017,PPARG
+GO:BP,regulation of collagen biosynthetic process,GO:0032965,1,0,34,3,1,21017,PPARG
+GO:BP,collagen biosynthetic process,GO:0032964,1,0,44,3,1,21017,PPARG
+GO:BP,collagen metabolic process,GO:0032963,1,0,102,3,1,21017,PPARG
+GO:BP,secretion by cell,GO:0032940,1,0,832,3,2,21017,"PPARG,SLC30A8"
+GO:BP,regulation of protein localization,GO:0032880,1,0,891,3,2,21017,"PPARG,SLC30A8"
+GO:BP,cellular response to hormone stimulus,GO:0032870,1,0,637,3,1,21017,PPARG
+GO:BP,cellular response to insulin stimulus,GO:0032869,1,0,202,3,1,21017,PPARG
+GO:BP,response to insulin,GO:0032868,1,0,265,3,1,21017,PPARG
+GO:BP,monocarboxylic acid metabolic process,GO:0032787,1,0,633,3,1,21017,PPARG
+GO:BP,RNA biosynthetic process,GO:0032774,1,0,6704,3,2,21017,"PPARG,WFS1"
+GO:BP,response to retinoic acid,GO:0032526,1,0,110,3,1,21017,PPARG
+GO:BP,developmental process,GO:0032502,1,0,6478,3,2,21017,"PPARG,WFS1"
+GO:BP,multicellular organismal process,GO:0032501,1,0,7234,3,2,21017,"PPARG,WFS1"
+GO:BP,endoplasmic reticulum calcium ion homeostasis,GO:0032469,1,0,27,3,1,21017,WFS1
+GO:BP,protein modification by small protein conjugation,GO:0032446,1,0,846,3,1,21017,WFS1
+GO:BP,regulation of transporter activity,GO:0032409,1,0,208,3,1,21017,PPARG
+GO:BP,positive regulation of cholesterol transport,GO:0032376,1,0,34,3,1,21017,PPARG
+GO:BP,regulation of cholesterol transport,GO:0032374,1,0,57,3,1,21017,PPARG
+GO:BP,positive regulation of sterol transport,GO:0032373,1,0,34,3,1,21017,PPARG
+GO:BP,regulation of sterol transport,GO:0032371,1,0,57,3,1,21017,PPARG
+GO:BP,response to starvation,GO:0042594,1,0,218,3,1,21017,PPARG
+GO:BP,regulation of circadian rhythm,GO:0042752,1,0,114,3,1,21017,PPARG
+GO:BP,mRNA transcription by RNA polymerase II,GO:0042789,1,0,48,3,1,21017,PPARG
+GO:BP,amide transport,GO:0042886,1,0,322,3,1,21017,SLC30A8
+GO:BP,negative regulation of growth,GO:0045926,1,0,245,3,1,21017,PPARG
+GO:BP,positive regulation of fatty acid metabolic process,GO:0045923,1,0,38,3,1,21017,PPARG
+GO:BP,positive regulation of DNA-templated transcription,GO:0045893,1,0,1710,3,1,21017,PPARG
+GO:BP,negative regulation of DNA-templated transcription,GO:0045892,1,0,1337,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of proteolysis,GO:0045862,1,0,234,3,1,21017,WFS1
+GO:BP,regulation of protein kinase activity,GO:0045859,1,0,438,3,1,21017,PPARG
+GO:BP,positive regulation of lipid metabolic process,GO:0045834,1,0,124,3,1,21017,PPARG
+GO:BP,negative regulation of innate immune response,GO:0045824,1,0,87,3,1,21017,PPARG
+GO:BP,positive regulation of endocytosis,GO:0045807,1,0,152,3,1,21017,PPARG
+GO:BP,positive regulation of growth,GO:0045927,1,0,258,3,1,21017,WFS1
+GO:BP,regulation of angiogenesis,GO:0045765,1,0,289,3,1,21017,PPARG
+GO:BP,positive regulation of glial cell differentiation,GO:0045687,1,0,46,3,1,21017,PPARG
+GO:BP,regulation of glial cell differentiation,GO:0045685,1,0,77,3,1,21017,PPARG
+GO:BP,negative regulation of osteoblast differentiation,GO:0045668,1,0,50,3,1,21017,PPARG
+GO:BP,regulation of osteoblast differentiation,GO:0045667,1,0,130,3,1,21017,PPARG
+GO:BP,positive regulation of fat cell differentiation,GO:0045600,1,0,67,3,1,21017,PPARG
+GO:BP,regulation of fat cell differentiation,GO:0045598,1,0,132,3,1,21017,PPARG
+GO:BP,positive regulation of cell differentiation,GO:0045597,1,0,866,3,1,21017,PPARG
+GO:BP,negative regulation of cell differentiation,GO:0045596,1,0,680,3,1,21017,PPARG
+GO:BP,regulation of cell differentiation,GO:0045595,1,0,1577,3,1,21017,PPARG
+GO:BP,positive regulation of protein catabolic process,GO:0045732,1,0,214,3,1,21017,WFS1
+GO:BP,negative regulation of nucleobase-containing compound metabolic process,GO:0045934,1,0,1579,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of nucleobase-containing compound metabolic process,GO:0045935,1,0,2038,3,1,21017,PPARG
+GO:BP,negative regulation of phosphate metabolic process,GO:0045936,1,0,329,3,1,21017,PPARG
+GO:BP,positive regulation of response to stimulus,GO:0048584,1,0,2293,3,1,21017,WFS1
+GO:BP,regulation of response to stimulus,GO:0048583,1,0,3958,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of cellular process,GO:0048523,1,0,5646,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of cellular process,GO:0048522,1,0,5886,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,negative regulation of biological process,GO:0048519,1,0,5865,3,2,21017,"PPARG,WFS1"
+GO:BP,positive regulation of biological process,GO:0048518,1,0,6235,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,blood vessel morphogenesis,GO:0048514,1,0,628,3,1,21017,PPARG
+GO:BP,animal organ development,GO:0048513,1,0,3047,3,2,21017,"PPARG,WFS1"
+GO:BP,rhythmic process,GO:0048511,1,0,300,3,1,21017,PPARG
+GO:BP,cell maturation,GO:0048469,1,0,208,3,1,21017,PPARG
+GO:BP,cell development,GO:0048468,1,0,2833,3,1,21017,PPARG
+GO:BP,retinoic acid receptor signaling pathway,GO:0048384,1,0,33,3,1,21017,PPARG
+GO:BP,organelle fission,GO:0048285,1,0,498,3,1,21017,PPARG
+GO:BP,negative regulation of fibroblast proliferation,GO:0048147,1,0,35,3,1,21017,PPARG
+GO:BP,regulation of fibroblast proliferation,GO:0048145,1,0,91,3,1,21017,PPARG
+GO:BP,fibroblast proliferation,GO:0048144,1,0,111,3,1,21017,PPARG
+GO:BP,carboxylic acid transport,GO:0046942,1,0,344,3,1,21017,PPARG
+GO:BP,secretion,GO:0046903,1,0,968,3,2,21017,"PPARG,SLC30A8"
+GO:BP,positive regulation of fatty acid oxidation,GO:0046321,1,0,15,3,1,21017,PPARG
+GO:BP,regulation of fatty acid oxidation,GO:0046320,1,0,34,3,1,21017,PPARG
+GO:BP,positive regulation of transcription by RNA polymerase II,GO:0045944,1,0,1261,3,1,21017,PPARG
+GO:BP,fat cell differentiation,GO:0045444,1,0,238,3,1,21017,PPARG
+GO:BP,response to oxygen-containing compound,GO:1901700,1,0,1632,3,2,21017,"PPARG,SLC30A8"
+GO:BP,external encapsulating structure organization,GO:0045229,1,0,327,3,1,21017,PPARG
+GO:BP,cell fate commitment,GO:0045165,1,0,291,3,1,21017,PPARG
+GO:BP,macromolecule modification,GO:0043412,1,0,3129,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of MAPK cascade,GO:0043409,1,0,158,3,1,21017,PPARG
+GO:BP,regulation of MAPK cascade,GO:0043408,1,0,645,3,1,21017,PPARG
+GO:BP,negative regulation of MAP kinase activity,GO:0043407,1,0,43,3,1,21017,PPARG
+GO:BP,regulation of MAP kinase activity,GO:0043405,1,0,124,3,1,21017,PPARG
+GO:BP,positive regulation of DNA binding,GO:0043388,1,0,40,3,1,21017,PPARG
+GO:BP,response to alkaloid,GO:0043279,1,0,98,3,1,21017,PPARG
+GO:BP,positive regulation of monoatomic ion transport,GO:0043270,1,0,209,3,1,21017,WFS1
+GO:BP,regulation of monoatomic ion transport,GO:0043269,1,0,449,3,1,21017,WFS1
+GO:BP,response to peptide hormone,GO:0043434,1,0,434,3,1,21017,PPARG
+GO:BP,response to external biotic stimulus,GO:0043207,1,0,1558,3,2,21017,"PPARG,SLC30A8"
+GO:BP,negative regulation of catalytic activity,GO:0043086,1,0,319,3,1,21017,PPARG
+GO:BP,negative regulation of programmed cell death,GO:0043069,1,0,898,3,1,21017,WFS1
+GO:BP,positive regulation of programmed cell death,GO:0043068,1,0,533,3,1,21017,PPARG
+GO:BP,regulation of programmed cell death,GO:0043067,1,0,1497,3,2,21017,"PPARG,WFS1"
+GO:BP,negative regulation of apoptotic process,GO:0043066,1,0,872,3,1,21017,WFS1
+GO:BP,positive regulation of apoptotic process,GO:0043065,1,0,517,3,1,21017,PPARG
+GO:BP,extracellular structure organization,GO:0043062,1,0,326,3,1,21017,PPARG
+GO:BP,regulation of apoptotic process,GO:0042981,1,0,1458,3,2,21017,"PPARG,WFS1"
+GO:BP,lipoprotein transport,GO:0042953,1,0,19,3,1,21017,PPARG
+GO:BP,macromolecule metabolic process,GO:0043170,1,0,12088,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,oxoacid metabolic process,GO:0043436,1,0,927,3,1,21017,PPARG
+GO:BP,muscle adaptation,GO:0043500,1,0,106,3,1,21017,PPARG
+GO:BP,regulation of muscle adaptation,GO:0043502,1,0,80,3,1,21017,PPARG
+GO:BP,regulation of innate immune response,GO:0045088,1,0,430,3,1,21017,PPARG
+GO:BP,innate immune response,GO:0045087,1,0,977,3,2,21017,"PPARG,SLC30A8"
+GO:BP,lipoprotein localization,GO:0044872,1,0,20,3,1,21017,PPARG
+GO:BP,biological process involved in interspecies interaction between organisms,GO:0044419,1,0,1724,3,2,21017,"PPARG,SLC30A8"
+GO:BP,small molecule metabolic process,GO:0044281,1,0,1795,3,1,21017,PPARG
+GO:BP,primary metabolic process,GO:0044238,1,0,12419,3,3,21017,"PPARG,WFS1,SLC30A8"
+GO:BP,positive regulation of molecular function,GO:0044093,1,0,959,3,1,21017,PPARG
+GO:BP,negative regulation of molecular function,GO:0044092,1,0,592,3,1,21017,PPARG
+GO:BP,regulation of cellular component biogenesis,GO:0044087,1,0,965,3,1,21017,PPARG
+GO:BP,cellular component biogenesis,GO:0044085,1,0,4910,3,1,21017,PPARG
+GO:BP,regulation of system process,GO:0044057,1,0,542,3,1,21017,PPARG
+GO:BP,post-translational protein modification,GO:0043687,1,0,1013,3,1,21017,WFS1
+GO:BP,response to estrogen,GO:0043627,1,0,72,3,1,21017,PPARG
+GO:BP,amide metabolic process,GO:0043603,1,0,452,3,1,21017,SLC30A8
+GO:BP,regulation of kinase activity,GO:0043549,1,0,469,3,1,21017,PPARG
+GO:BP,endothelial cell migration,GO:0043542,1,0,220,3,1,21017,PPARG
+GO:BP,negative regulation of blood vessel endothelial cell migration,GO:0043537,1,0,35,3,1,21017,PPARG
+GO:BP,regulation of blood vessel endothelial cell migration,GO:0043535,1,0,92,3,1,21017,PPARG
+GO:BP,blood vessel endothelial cell migration,GO:0043534,1,0,118,3,1,21017,PPARG
+GO:BP,negative regulation of neuron apoptotic process,GO:0043524,1,0,161,3,1,21017,WFS1
+GO:BP,regulation of neuron apoptotic process,GO:0043523,1,0,231,3,1,21017,WFS1
+GO:BP,establishment of protein localization,GO:0045184,1,0,1925,3,2,21017,"PPARG,SLC30A8"
+GO:CC,transport vesicle membrane,GO:0030658,0.062623971,1.203259395,237,3,2,22115,"WFS1,SLC30A8"
+GO:CC,transport vesicle,GO:0030133,0.209147327,0.679547682,434,3,2,22115,"WFS1,SLC30A8"
+GO:CC,secretory granule,GO:0030141,0.881838705,0.054610843,897,3,2,22115,"WFS1,SLC30A8"
+GO:CC,endoplasmic reticulum membrane,GO:0005789,1,0,1203,3,1,22115,WFS1
+GO:CC,endoplasmic reticulum lumen,GO:0005788,1,0,312,3,1,22115,WFS1
+GO:CC,endoplasmic reticulum,GO:0005783,1,0,2066,3,1,22115,WFS1
+GO:CC,cytoplasm,GO:0005737,1,0,12394,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,chromosome,GO:0005694,1,0,1956,3,1,22115,PPARG
+GO:CC,transcription regulator complex,GO:0005667,1,0,519,3,1,22115,PPARG
+GO:CC,nucleoplasm,GO:0005654,1,0,4229,3,1,22115,PPARG
+GO:CC,nucleus,GO:0005634,1,0,10058,3,1,22115,PPARG
+GO:CC,intracellular anatomical structure,GO:0005622,1,0,17842,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,cellular_component,GO:0005575,1,0,22115,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,Golgi membrane,GO:0000139,1,0,676,3,1,22115,SLC30A8
+GO:CC,chromatin,GO:0000785,1,0,1371,3,1,22115,PPARG
+GO:CC,Golgi apparatus,GO:0005794,1,0,1640,3,1,22115,SLC30A8
+GO:CC,cytosol,GO:0005829,1,0,5513,3,1,22115,PPARG
+GO:CC,synaptic vesicle,GO:0008021,1,0,216,3,1,22115,WFS1
+GO:CC,organelle,GO:0043226,1,0,16811,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,neuron projection,GO:0043005,1,0,1338,3,1,22115,WFS1
+GO:CC,cell projection,GO:0042995,1,0,2399,3,1,22115,WFS1
+GO:CC,nuclear outer membrane-endoplasmic reticulum membrane network,GO:0042175,1,0,1226,3,1,22115,WFS1
+GO:CC,somatodendritic compartment,GO:0036477,1,0,852,3,1,22115,WFS1
+GO:CC,protein-containing complex,GO:0032991,1,0,7861,3,1,22115,PPARG
+GO:CC,organelle subcompartment,GO:0031984,1,0,1530,3,1,22115,WFS1
+GO:CC,vesicle,GO:0031982,1,0,4012,3,2,22115,"WFS1,SLC30A8"
+GO:CC,nuclear lumen,GO:0031981,1,0,5524,3,1,22115,PPARG
+GO:CC,membrane-bounded organelle,GO:0043227,1,0,15672,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,membrane-enclosed lumen,GO:0031974,1,0,6663,3,2,22115,"PPARG,WFS1"
+GO:CC,organelle membrane,GO:0031090,1,0,3787,3,2,22115,"WFS1,SLC30A8"
+GO:CC,synaptic vesicle membrane,GO:0030672,1,0,130,3,1,22115,WFS1
+GO:CC,secretory granule membrane,GO:0030667,1,0,316,3,1,22115,SLC30A8
+GO:CC,cytoplasmic vesicle membrane,GO:0030659,1,0,1234,3,2,22115,"WFS1,SLC30A8"
+GO:CC,dendrite,GO:0030425,1,0,627,3,1,22115,WFS1
+GO:CC,cell junction,GO:0030054,1,0,2236,3,1,22115,WFS1
+GO:CC,membrane,GO:0016020,1,0,9912,3,2,22115,"WFS1,SLC30A8"
+GO:CC,vesicle membrane,GO:0012506,1,0,1248,3,2,22115,"WFS1,SLC30A8"
+GO:CC,endomembrane system,GO:0012505,1,0,4803,3,2,22115,"WFS1,SLC30A8"
+GO:CC,cytoplasmic vesicle,GO:0031410,1,0,2523,3,2,22115,"WFS1,SLC30A8"
+GO:CC,membraneless organelle,GO:0043228,1,0,6607,3,1,22115,PPARG
+GO:CC,intracellular organelle,GO:0043229,1,0,16022,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,intracellular membrane-bounded organelle,GO:0043231,1,0,14608,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,nuclear protein-containing complex,GO:0140513,1,0,2679,3,1,22115,PPARG
+GO:CC,plasma membrane bounded cell projection,GO:0120025,1,0,2286,3,1,22115,WFS1
+GO:CC,cellular anatomical structure,GO:0110165,1,0,21571,3,3,22115,"PPARG,WFS1,SLC30A8"
+GO:CC,secretory vesicle,GO:0099503,1,0,1073,3,2,22115,"WFS1,SLC30A8"
+GO:CC,exocytic vesicle membrane,GO:0099501,1,0,130,3,1,22115,WFS1
+GO:CC,endoplasmic reticulum subcompartment,GO:0098827,1,0,1209,3,1,22115,WFS1
+GO:CC,presynapse,GO:0098793,1,0,568,3,1,22115,WFS1
+GO:CC,bounding membrane of organelle,GO:0098588,1,0,2217,3,2,22115,"WFS1,SLC30A8"
+GO:CC,intracellular vesicle,GO:0097708,1,0,2529,3,2,22115,"WFS1,SLC30A8"
+GO:CC,dendritic tree,GO:0097447,1,0,629,3,1,22115,WFS1
+GO:CC,RNA polymerase II transcription regulator complex,GO:0090575,1,0,258,3,1,22115,PPARG
+GO:CC,cell periphery,GO:0071944,1,0,6269,3,1,22115,SLC30A8
+GO:CC,exocytic vesicle,GO:0070382,1,0,236,3,1,22115,WFS1
+GO:CC,intracellular organelle lumen,GO:0070013,1,0,6663,3,2,22115,"PPARG,WFS1"
+GO:CC,perinuclear region of cytoplasm,GO:0048471,1,0,737,3,1,22115,PPARG
+GO:CC,synapse,GO:0045202,1,0,1475,3,1,22115,WFS1
+GO:CC,receptor complex,GO:0043235,1,0,527,3,1,22115,PPARG
+GO:CC,organelle lumen,GO:0043233,1,0,6663,3,2,22115,"PPARG,WFS1"
+GO:CC,intracellular membraneless organelle,GO:0043232,1,0,6606,3,1,22115,PPARG
+GO:CC,plasma membrane,GO:0005886,1,0,5783,3,1,22115,SLC30A8
+KEGG,Thyroid cancer,KEGG:05216,0.230259075,0.637783245,37,2,1,8484,PPARG
+KEGG,PPAR signaling pathway,KEGG:03320,0.46569375,0.331899591,75,2,1,8484,PPARG
+KEGG,Longevity regulating pathway,KEGG:04211,0.552165239,0.257930937,89,2,1,8484,PPARG
+KEGG,AMPK signaling pathway,KEGG:04152,0.74312504,0.128938105,120,2,1,8484,PPARG
+KEGG,Osteoclast differentiation,KEGG:04380,0.816855289,0.087854875,132,2,1,8484,PPARG
+KEGG,Non-alcoholic fatty liver disease,KEGG:04932,0.951752458,0.021475993,154,2,1,8484,PPARG
+KEGG,Efferocytosis,KEGG:04148,0.963998193,0.01592378,156,2,1,8484,PPARG
+KEGG,Lipid and atherosclerosis,KEGG:05417,1,0,214,2,1,8484,PPARG
+KEGG,Transcriptional misregulation in cancer,KEGG:05202,1,0,192,2,1,8484,PPARG
+KEGG,Pathways in cancer,KEGG:05200,1,0,527,2,1,8484,PPARG
+KEGG,Huntington disease,KEGG:05016,1,0,305,2,1,8484,PPARG
+KEGG,Protein processing in endoplasmic reticulum,KEGG:04141,1,0,168,2,1,8484,WFS1
+KEGG,KEGG root term,KEGG:00000,1,0,8484,2,2,8484,"PPARG,WFS1"
+KEGG,Thermogenesis,KEGG:04714,1,0,232,2,1,8484,PPARG
+REAC,MECP2 regulates transcription factors,REAC:R-HSA-9022707,0.199818481,0.699364346,4,3,1,10916,PPARG
+REAC,Zinc efflux and compartmentalization by the SLC30 family,REAC:R-HSA-435368,0.249750216,0.602494127,5,3,1,10916,SLC30A8
+REAC,Zinc transporters,REAC:R-HSA-435354,0.748564312,0.125770882,15,3,1,10916,SLC30A8
+REAC,Gene expression (Transcription),REAC:R-HSA-74160,1,0,1519,3,1,10916,PPARG
+REAC,Developmental Biology,REAC:R-HSA-1266738,1,0,1225,3,1,10916,PPARG
+REAC,Cellular responses to stress,REAC:R-HSA-2262752,1,0,792,3,1,10916,WFS1
+REAC,Cellular responses to stimuli,REAC:R-HSA-8953897,1,0,806,3,1,10916,WFS1
+REAC,Adipogenesis,REAC:R-HSA-9843745,1,0,83,3,1,10916,PPARG
+REAC,Generic Transcription Pathway,REAC:R-HSA-212436,1,0,1235,3,1,10916,PPARG
+REAC,IRE1alpha activates chaperones,REAC:R-HSA-381070,1,0,49,3,1,10916,WFS1
+REAC,Intracellular signaling by second messengers,REAC:R-HSA-9006925,1,0,293,3,1,10916,PPARG
+REAC,SUMOylation,REAC:R-HSA-2990846,1,0,177,3,1,10916,PPARG
+REAC,SUMO E3 ligases SUMOylate target proteins,REAC:R-HSA-3108232,1,0,171,3,1,10916,PPARG
+REAC,SLC-mediated transmembrane transport,REAC:R-HSA-425407,1,0,245,3,1,10916,SLC30A8
+REAC,Regulation of lipid metabolism by PPARalpha,REAC:R-HSA-400206,1,0,114,3,1,10916,PPARG
+REAC,Regulation of PTEN gene transcription,REAC:R-HSA-8943724,1,0,59,3,1,10916,PPARG
+REAC,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),REAC:R-HSA-381426,1,0,124,3,1,10916,WFS1
+REAC,RNA Polymerase II Transcription,REAC:R-HSA-73857,1,0,1356,3,1,10916,PPARG
+REAC,Post-translational protein phosphorylation,REAC:R-HSA-8957275,1,0,107,3,1,10916,WFS1
+REAC,Insulin processing,REAC:R-HSA-264876,1,0,25,3,1,10916,SLC30A8
+REAC,Post-translational protein modification,REAC:R-HSA-597592,1,0,1440,3,2,10916,"PPARG,WFS1"
+REAC,PTEN Regulation,REAC:R-HSA-6807070,1,0,138,3,1,10916,PPARG
+REAC,PPARA activates gene expression,REAC:R-HSA-1989781,1,0,113,3,1,10916,PPARG
+REAC,PIP3 activates AKT signaling,REAC:R-HSA-1257604,1,0,253,3,1,10916,PPARG
+REAC,Nuclear Receptor transcription pathway,REAC:R-HSA-383280,1,0,41,3,1,10916,PPARG
+REAC,Metal ion SLC transporters,REAC:R-HSA-425410,1,0,24,3,1,10916,SLC30A8
+REAC,Metabolism of proteins,REAC:R-HSA-392499,1,0,1962,3,3,10916,"PPARG,WFS1,SLC30A8"
+REAC,Metabolism of lipids,REAC:R-HSA-556833,1,0,735,3,1,10916,PPARG
+REAC,Metabolism,REAC:R-HSA-1430728,1,0,2079,3,1,10916,PPARG
+REAC,Peptide hormone metabolism,REAC:R-HSA-2980736,1,0,88,3,1,10916,SLC30A8
+REAC,SUMOylation of intracellular receptors,REAC:R-HSA-4090294,1,0,24,3,1,10916,PPARG
+REAC,Signal Transduction,REAC:R-HSA-162582,1,0,2548,3,1,10916,PPARG
+REAC,Transcriptional Regulation by MECP2,REAC:R-HSA-8986944,1,0,59,3,1,10916,PPARG
+REAC,Transcriptional regulation of white adipocyte differentiation,REAC:R-HSA-381340,1,0,83,3,1,10916,PPARG
+REAC,REACTOME root term,REAC:0000000,1,0,10916,3,3,10916,"PPARG,WFS1,SLC30A8"
+REAC,XBP1(S) activates chaperone genes,REAC:R-HSA-381038,1,0,47,3,1,10916,WFS1
+REAC,Unfolded Protein Response (UPR),REAC:R-HSA-381119,1,0,92,3,1,10916,WFS1
+REAC,Transport of small molecules,REAC:R-HSA-382551,1,0,718,3,1,10916,SLC30A8
+REAC,"Transport of bile salts and organic acids, metal ions and amine compounds",REAC:R-HSA-425366,1,0,84,3,1,10916,SLC30A8
+HPA,pancreas; pancreatic endocrine cells[High],HPA:0351183,0.924444814,0.03411901,802,3,2,11019,"WFS1,SLC30A8"
+HPA,skeletal muscle,HPA:0440000,1,0,5909,3,2,11019,"PPARG,WFS1"
+HPA,rectum,HPA:0400000,1,0,7973,3,1,11019,PPARG
+HPA,rectum; glandular cells[≥Low],HPA:0400051,1,0,7067,3,1,11019,PPARG
+HPA,rectum; glandular cells[≥Medium],HPA:0400052,1,0,6107,3,1,11019,PPARG
+HPA,rectum; glandular cells[High],HPA:0400053,1,0,2575,3,1,11019,PPARG
+HPA,salivary gland,HPA:0420000,1,0,6902,3,2,11019,"PPARG,WFS1"
+HPA,gallbladder; glandular cells[≥Medium],HPA:0220052,1,0,6615,3,1,11019,PPARG
+HPA,kidney; cells in tubules[≥Low],HPA:0270361,1,0,7027,3,2,11019,"PPARG,WFS1"
+HPA,kidney; cells in glomeruli[≥Low],HPA:0270351,1,0,5168,3,1,11019,WFS1
+HPA,kidney,HPA:0270000,1,0,8237,3,2,11019,"PPARG,WFS1"
+HPA,skin 1,HPA:0460000,1,0,7246,3,2,11019,"PPARG,WFS1"
+HPA,heart muscle,HPA:0240000,1,0,6332,3,1,11019,WFS1
+HPA,salivary gland; glandular cells[≥Low],HPA:0420051,1,0,6902,3,2,11019,"PPARG,WFS1"
+HPA,skeletal muscle; myocytes[≥Low],HPA:0440341,1,0,5909,3,2,11019,"PPARG,WFS1"
+HPA,heart muscle; cardiomyocytes[≥Low],HPA:0241101,1,0,6332,3,1,11019,WFS1
+HPA,salivary gland; glandular cells[≥Medium],HPA:0420052,1,0,4872,3,2,11019,"PPARG,WFS1"
+HPA,seminal vesicle,HPA:0430000,1,0,6828,3,1,11019,WFS1
+HPA,heart muscle; cardiomyocytes[≥Medium],HPA:0241102,1,0,4376,3,1,11019,WFS1
+HPA,hippocampus; neuronal cells[≥Low],HPA:0250131,1,0,6228,3,2,11019,"PPARG,WFS1"
+HPA,seminal vesicle; glandular cells[≥Low],HPA:0430051,1,0,6828,3,1,11019,WFS1
+HPA,hippocampus,HPA:0250000,1,0,6830,3,2,11019,"PPARG,WFS1"
+HPA,skin 1; Langerhans[≥Low],HPA:0460641,1,0,3962,3,1,11019,WFS1
+HPA,skeletal muscle; myocytes[≥Medium],HPA:0440342,1,0,3794,3,1,11019,WFS1
+HPA,seminal vesicle; glandular cells[≥Medium],HPA:0430052,1,0,5238,3,1,11019,WFS1
+HPA,hippocampus; neuronal cells[≥Medium],HPA:0250132,1,0,4230,3,1,11019,PPARG
+HPA,prostate; glandular cells[≥Medium],HPA:0390052,1,0,4809,3,1,11019,WFS1
+HPA,pancreas,HPA:0350000,1,0,7409,3,2,11019,"WFS1,SLC30A8"
+HPA,ovary; ovarian stroma cells[≥Low],HPA:0340461,1,0,3986,3,1,11019,WFS1
+HPA,pancreas; pancreatic endocrine cells[≥Low],HPA:0351181,1,0,5628,3,2,11019,"WFS1,SLC30A8"
+HPA,lymph node; non-germinal center cells[≥Low],HPA:0310441,1,0,6061,3,1,11019,WFS1
+HPA,pancreas; pancreatic endocrine cells[≥Medium],HPA:0351182,1,0,3624,3,2,11019,"WFS1,SLC30A8"
+HPA,lymph node,HPA:0310000,1,0,6530,3,1,11019,WFS1
+HPA,lymph node; non-germinal center cells[≥Medium],HPA:0310442,1,0,3989,3,1,11019,WFS1
+HPA,lung; macrophages[≥Medium],HPA:0300412,1,0,4898,3,1,11019,PPARG
+HPA,lung; macrophages[≥Low],HPA:0300411,1,0,6787,3,1,11019,PPARG
+HPA,lung; alveolar cells[≥Medium],HPA:0301172,1,0,1790,3,1,11019,WFS1
+HPA,lung; alveolar cells[≥Low],HPA:0301171,1,0,3490,3,1,11019,WFS1
+HPA,parathyroid gland,HPA:0360000,1,0,5898,3,1,11019,WFS1
+HPA,parathyroid gland; glandular cells[≥Low],HPA:0360051,1,0,5898,3,1,11019,WFS1
+HPA,parathyroid gland; glandular cells[≥Medium],HPA:0360052,1,0,4414,3,1,11019,WFS1
+HPA,oral mucosa,HPA:0330000,1,0,6257,3,1,11019,PPARG
+HPA,parathyroid gland; glandular cells[High],HPA:0360053,1,0,1553,3,1,11019,WFS1
+HPA,kidney; cells in tubules[≥Medium],HPA:0270362,1,0,5826,3,1,11019,WFS1
+HPA,placenta,HPA:0380000,1,0,7517,3,2,11019,"PPARG,WFS1"
+HPA,placenta; trophoblastic cells[≥Low],HPA:0380521,1,0,6360,3,2,11019,"PPARG,WFS1"
+HPA,lung,HPA:0300000,1,0,7379,3,2,11019,"PPARG,WFS1"
+HPA,ovary,HPA:0340000,1,0,5429,3,1,11019,WFS1
+HPA,oral mucosa; squamous epithelial cells[≥Low],HPA:0330221,1,0,6257,3,1,11019,PPARG
+HPA,liver; hepatocytes[≥Medium],HPA:0290402,1,0,3750,3,1,11019,WFS1
+HPA,placenta; trophoblastic cells[≥Medium],HPA:0380522,1,0,5050,3,2,11019,"PPARG,WFS1"
+HPA,liver; hepatocytes[≥Low],HPA:0290401,1,0,5748,3,1,11019,WFS1
+HPA,placenta; trophoblastic cells[High],HPA:0380523,1,0,1935,3,2,11019,"PPARG,WFS1"
+HPA,ovary; ovarian stroma cells[≥Medium],HPA:0340462,1,0,2067,3,1,11019,WFS1
+HPA,oral mucosa; squamous epithelial cells[≥Medium],HPA:0330222,1,0,4358,3,1,11019,PPARG
+HPA,liver,HPA:0290000,1,0,6298,3,1,11019,WFS1
+HPA,oral mucosa; squamous epithelial cells[High],HPA:0330223,1,0,1152,3,1,11019,PPARG
+HPA,prostate; glandular cells[≥Low],HPA:0390051,1,0,6677,3,1,11019,WFS1
+HPA,kidney; cells in tubules[High],HPA:0270363,1,0,2161,3,1,11019,WFS1
+HPA,placenta; decidual cells[≥Low],HPA:0380511,1,0,4850,3,1,11019,WFS1
+HPA,prostate,HPA:0390000,1,0,6677,3,1,11019,WFS1
+HPA,skin 1; keratinocytes[≥Low],HPA:0460661,1,0,5165,3,2,11019,"PPARG,WFS1"
+HPA,vagina; squamous epithelial cells[≥Medium],HPA:0620222,1,0,4050,3,1,11019,PPARG
+HPA,vagina; squamous epithelial cells[≥Low],HPA:0620221,1,0,6000,3,1,11019,PPARG
+HPA,vagina,HPA:0620000,1,0,6000,3,1,11019,PPARG
+HPA,urinary bladder; urothelial cells[High],HPA:0610833,1,0,2038,3,1,11019,PPARG
+HPA,urinary bladder; urothelial cells[≥Medium],HPA:0610832,1,0,5958,3,1,11019,PPARG
+HPA,urinary bladder; urothelial cells[≥Low],HPA:0610831,1,0,7304,3,1,11019,PPARG
+HPA,urinary bladder,HPA:0610000,1,0,7304,3,1,11019,PPARG
+HPA,tonsil; squamous epithelial cells[High],HPA:0600223,1,0,1472,3,1,11019,PPARG
+HPA,tonsil; squamous epithelial cells[≥Medium],HPA:0600222,1,0,4949,3,1,11019,PPARG
+HPA,tonsil; squamous epithelial cells[≥Low],HPA:0600221,1,0,6652,3,1,11019,PPARG
+HPA,tonsil; non-germinal center cells[≥Medium],HPA:0600442,1,0,4200,3,1,11019,WFS1
+HPA,tonsil; non-germinal center cells[≥Low],HPA:0600441,1,0,6117,3,1,11019,WFS1
+HPA,tonsil,HPA:0600000,1,0,7788,3,2,11019,"PPARG,WFS1"
+HPA,thyroid gland; glandular cells[≥Medium],HPA:0590052,1,0,5602,3,2,11019,"PPARG,WFS1"
+HPA,thyroid gland; glandular cells[≥Low],HPA:0590051,1,0,7131,3,2,11019,"PPARG,WFS1"
+HPA,thyroid gland,HPA:0590000,1,0,7131,3,2,11019,"PPARG,WFS1"
+HPA,testis; cells in seminiferous ducts[High],HPA:0570743,1,0,728,3,1,11019,WFS1
+HPA,soft tissue 2,HPA:0510000,1,0,5207,3,1,11019,WFS1
+HPA,soft tissue 1; peripheral nerve[≥Medium],HPA:0500702,1,0,1354,3,1,11019,WFS1
+HPA,soft tissue 1; peripheral nerve[≥Low],HPA:0500701,1,0,2795,3,1,11019,WFS1
+HPA,soft tissue 1; fibroblasts[≥Low],HPA:0500651,1,0,4238,3,1,11019,WFS1
+HPA,soft tissue 1; chondrocytes[≥Medium],HPA:0500112,1,0,1450,3,1,11019,WFS1
+HPA,soft tissue 1; chondrocytes[≥Low],HPA:0500111,1,0,2188,3,1,11019,WFS1
+HPA,soft tissue 1,HPA:0500000,1,0,5363,3,1,11019,WFS1
+HPA,smooth muscle; smooth muscle cells[≥Medium],HPA:0490692,1,0,3126,3,1,11019,WFS1
+HPA,soft tissue 2; chondrocytes[≥Low],HPA:0510111,1,0,1090,3,1,11019,WFS1
+HPA,smooth muscle; smooth muscle cells[≥Low],HPA:0490691,1,0,5454,3,1,11019,WFS1
+HPA,small intestine; glandular cells[≥Medium],HPA:0480052,1,0,6067,3,1,11019,PPARG
+HPA,small intestine; glandular cells[≥Low],HPA:0480051,1,0,7080,3,1,11019,PPARG
+HPA,small intestine,HPA:0480000,1,0,7877,3,1,11019,PPARG
+HPA,skin 2; epidermal cells[≥Medium],HPA:0470682,1,0,4016,3,1,11019,PPARG
+HPA,skin 2; epidermal cells[≥Low],HPA:0470681,1,0,5693,3,2,11019,"PPARG,WFS1"
+HPA,skin 2,HPA:0470000,1,0,7036,3,2,11019,"PPARG,WFS1"
+HPA,skin 1; melanocytes[≥Low],HPA:0460671,1,0,5302,3,1,11019,WFS1
+HPA,skin 1; keratinocytes[≥Medium],HPA:0460662,1,0,3289,3,1,11019,PPARG
+HPA,smooth muscle,HPA:0490000,1,0,5454,3,1,11019,WFS1
+HPA,skin 1; fibroblasts[≥Low],HPA:0460651,1,0,4082,3,1,11019,WFS1
+HPA,soft tissue 2; chondrocytes[≥Medium],HPA:0510112,1,0,738,3,1,11019,WFS1
+HPA,soft tissue 2; peripheral nerve[≥Low],HPA:0510701,1,0,3199,3,1,11019,WFS1
+HPA,testis; cells in seminiferous ducts[≥Medium],HPA:0570742,1,0,2368,3,1,11019,WFS1
+HPA,testis; cells in seminiferous ducts[≥Low],HPA:0570741,1,0,3106,3,1,11019,WFS1
+HPA,testis; Leydig cells[≥Medium],HPA:0570732,1,0,5378,3,1,11019,WFS1
+HPA,testis; Leydig cells[≥Low],HPA:0570731,1,0,7157,3,2,11019,"PPARG,WFS1"
+HPA,testis,HPA:0570000,1,0,9036,3,2,11019,"PPARG,WFS1"
+HPA,stomach 2; glandular cells[High],HPA:0550053,1,0,2431,3,1,11019,PPARG
+HPA,stomach 2; glandular cells[≥Medium],HPA:0550052,1,0,6284,3,1,11019,PPARG
+HPA,stomach 2; glandular cells[≥Low],HPA:0550051,1,0,7612,3,2,11019,"PPARG,WFS1"
+HPA,soft tissue 2; fibroblasts[≥Low],HPA:0510651,1,0,4130,3,1,11019,WFS1
+HPA,stomach 2,HPA:0550000,1,0,7612,3,2,11019,"PPARG,WFS1"
+HPA,stomach 1; glandular cells[≥Low],HPA:0540051,1,0,7664,3,1,11019,PPARG
+HPA,stomach 1,HPA:0540000,1,0,7664,3,1,11019,PPARG
+HPA,spleen; cells in white pulp[≥Medium],HPA:0530722,1,0,2720,3,1,11019,WFS1
+HPA,spleen; cells in white pulp[≥Low],HPA:0530721,1,0,4339,3,1,11019,WFS1
+HPA,spleen; cells in red pulp[≥Medium],HPA:0530712,1,0,3143,3,1,11019,WFS1
+HPA,spleen; cells in red pulp[≥Low],HPA:0530711,1,0,5333,3,2,11019,"PPARG,WFS1"
+HPA,spleen,HPA:0530000,1,0,5893,3,2,11019,"PPARG,WFS1"
+HPA,soft tissue 2; peripheral nerve[≥Medium],HPA:0510702,1,0,1546,3,1,11019,WFS1
+HPA,stomach 1; glandular cells[High],HPA:0540053,1,0,2453,3,1,11019,PPARG
+HPA,stomach 1; glandular cells[≥Medium],HPA:0540052,1,0,6351,3,1,11019,PPARG
+HPA,cerebral cortex; neuronal cells[≥Low],HPA:0100131,1,0,6712,3,2,11019,"PPARG,WFS1"
+HPA,gallbladder,HPA:0220000,1,0,7664,3,1,11019,PPARG
+HPA,duodenum,HPA:0150000,1,0,7899,3,1,11019,PPARG
+HPA,colon; glandular cells[High],HPA:0130053,1,0,2418,3,1,11019,PPARG
+HPA,colon; glandular cells[≥Medium],HPA:0130052,1,0,5988,3,1,11019,PPARG
+HPA,colon; glandular cells[≥Low],HPA:0130051,1,0,6999,3,1,11019,PPARG
+HPA,colon; endothelial cells[≥Medium],HPA:0130202,1,0,3715,3,2,11019,"PPARG,WFS1"
+HPA,colon; endothelial cells[≥Low],HPA:0130201,1,0,5675,3,2,11019,"PPARG,WFS1"
+HPA,colon,HPA:0130000,1,0,8342,3,2,11019,"PPARG,WFS1"
+HPA,cervix; squamous epithelial cells[High],HPA:0630223,1,0,1034,3,1,11019,PPARG
+HPA,duodenum; glandular cells[≥Low],HPA:0150051,1,0,7108,3,1,11019,PPARG
+HPA,cervix; squamous epithelial cells[≥Medium],HPA:0630222,1,0,3730,3,1,11019,PPARG
+HPA,cervix; glandular cells[≥Low],HPA:0630051,1,0,5692,3,1,11019,WFS1
+HPA,cervix,HPA:0630000,1,0,6930,3,2,11019,"PPARG,WFS1"
+HPA,cerebral cortex; neuropil[≥Medium],HPA:0100212,1,0,2618,3,1,11019,WFS1
+HPA,cerebral cortex; neuropil[≥Low],HPA:0100211,1,0,5010,3,1,11019,WFS1
+HPA,cerebral cortex; glial cells[≥Low],HPA:0100121,1,0,4927,3,1,11019,PPARG
+HPA,cerebral cortex; endothelial cells[≥Medium],HPA:0100202,1,0,2489,3,1,11019,WFS1
+HPA,cerebral cortex; endothelial cells[≥Low],HPA:0100201,1,0,4634,3,2,11019,"PPARG,WFS1"
+HPA,cervix; squamous epithelial cells[≥Low],HPA:0630221,1,0,5460,3,1,11019,PPARG
+HPA,duodenum; glandular cells[≥Medium],HPA:0150052,1,0,6106,3,1,11019,PPARG
+HPA,endometrium 1,HPA:0160000,1,0,7055,3,1,11019,WFS1
+HPA,endometrium 1; cells in endometrial stroma[≥Low],HPA:0160251,1,0,4077,3,1,11019,WFS1
+HPA,fallopian tube; non-ciliated cells[≥Medium],HPA:0211092,1,0,578,3,1,11019,WFS1
+HPA,fallopian tube; non-ciliated cells[≥Low],HPA:0211091,1,0,746,3,1,11019,WFS1
+HPA,fallopian tube; ciliated cells (tip of cilia)[High],HPA:0210883,1,0,341,3,1,11019,WFS1
+HPA,fallopian tube; ciliated cells (tip of cilia)[≥Medium],HPA:0210882,1,0,620,3,1,11019,WFS1
+HPA,fallopian tube; ciliated cells (tip of cilia)[≥Low],HPA:0210881,1,0,754,3,1,11019,WFS1
+HPA,fallopian tube,HPA:0210000,1,0,7466,3,1,11019,WFS1
+HPA,esophagus; squamous epithelial cells[High],HPA:0190223,1,0,1652,3,1,11019,PPARG
+HPA,esophagus; squamous epithelial cells[≥Medium],HPA:0190222,1,0,5058,3,1,11019,PPARG
+HPA,esophagus; squamous epithelial cells[≥Low],HPA:0190221,1,0,6679,3,1,11019,PPARG
+HPA,esophagus,HPA:0190000,1,0,6679,3,1,11019,PPARG
+HPA,epididymis; glandular cells[High],HPA:0180053,1,0,1842,3,1,11019,PPARG
+HPA,epididymis; glandular cells[≥Medium],HPA:0180052,1,0,5693,3,2,11019,"PPARG,WFS1"
+HPA,epididymis; glandular cells[≥Low],HPA:0180051,1,0,7337,3,2,11019,"PPARG,WFS1"
+HPA,epididymis,HPA:0180000,1,0,7337,3,2,11019,"PPARG,WFS1"
+HPA,endometrium 2; cells in endometrial stroma[≥Medium],HPA:0170252,1,0,1801,3,1,11019,WFS1
+HPA,endometrium 2; cells in endometrial stroma[≥Low],HPA:0170251,1,0,3517,3,1,11019,WFS1
+HPA,endometrium 2,HPA:0170000,1,0,6917,3,1,11019,WFS1
+HPA,endometrium 1; glandular cells[≥Low],HPA:0160051,1,0,6818,3,1,11019,WFS1
+HPA,endometrium 1; cells in endometrial stroma[≥Medium],HPA:0160252,1,0,2234,3,1,11019,WFS1
+HPA,cerebral cortex,HPA:0100000,1,0,8106,3,2,11019,"PPARG,WFS1"
+HPA,gallbladder; glandular cells[≥Low],HPA:0220051,1,0,7664,3,1,11019,PPARG
+HPA,cerebellum; cells in molecular layer[≥Low],HPA:0090191,1,0,4460,3,1,11019,PPARG
+HPA,cerebellum; cells in granular layer[≥Low],HPA:0090181,1,0,4549,3,1,11019,WFS1
+HPA,bone marrow,HPA:0040000,1,0,6496,3,2,11019,"PPARG,WFS1"
+HPA,appendix; lymphoid tissue[High],HPA:0030073,1,0,763,3,1,11019,PPARG
+HPA,appendix; lymphoid tissue[≥Medium],HPA:0030072,1,0,2987,3,1,11019,PPARG
+HPA,appendix; lymphoid tissue[≥Low],HPA:0030071,1,0,4734,3,1,11019,PPARG
+HPA,appendix; glandular cells[≥Low],HPA:0030051,1,0,6751,3,1,11019,PPARG
+HPA,appendix,HPA:0030000,1,0,7831,3,1,11019,PPARG
+HPA,adrenal gland; glandular cells[≥Medium],HPA:0020052,1,0,6018,3,2,11019,"PPARG,WFS1"
+HPA,adrenal gland; glandular cells[≥Low],HPA:0020051,1,0,7415,3,2,11019,"PPARG,WFS1"
+HPA,bone marrow; hematopoietic cells[≥Low],HPA:0040081,1,0,6496,3,2,11019,"PPARG,WFS1"
+HPA,adrenal gland,HPA:0020000,1,0,7422,3,2,11019,"PPARG,WFS1"
+HPA,adipose tissue; adipocytes[≥Low],HPA:0010011,1,0,3943,3,2,11019,"PPARG,WFS1"
+HPA,adipose tissue,HPA:0010000,1,0,3943,3,2,11019,"PPARG,WFS1"
+HPA,HPA root,HPA:0000000,1,0,11019,3,3,11019,"PPARG,WFS1,SLC30A8"
+HPA,adipose tissue; adipocytes[≥Medium],HPA:0010012,1,0,2236,3,1,11019,WFS1
+HPA,bone marrow; hematopoietic cells[≥Medium],HPA:0040082,1,0,4256,3,1,11019,WFS1
+HPA,breast,HPA:0050000,1,0,7185,3,2,11019,"PPARG,WFS1"
+HPA,breast; adipocytes[≥Low],HPA:0050011,1,0,2781,3,2,11019,"PPARG,WFS1"
+HPA,cerebellum; Purkinje cells[High],HPA:0090163,1,0,1552,3,1,11019,WFS1
+HPA,cerebellum; Purkinje cells[≥Medium],HPA:0090162,1,0,4126,3,1,11019,WFS1
+HPA,cerebellum; Purkinje cells[≥Low],HPA:0090161,1,0,5579,3,2,11019,"PPARG,WFS1"
+HPA,cerebellum,HPA:0090000,1,0,7202,3,2,11019,"PPARG,WFS1"
+HPA,caudate; neuronal cells[≥Low],HPA:0080131,1,0,6163,3,2,11019,"PPARG,WFS1"
+HPA,caudate; glial cells[≥Low],HPA:0080121,1,0,4577,3,1,11019,WFS1
+HPA,caudate,HPA:0080000,1,0,6964,3,2,11019,"PPARG,WFS1"
+HPA,bronchus; respiratory epithelial cells[≥Low],HPA:0060101,1,0,5938,3,1,11019,PPARG
+HPA,bronchus; ciliated cells (tip of cilia)[≥Medium],HPA:0060882,1,0,467,3,1,11019,WFS1
+HPA,bronchus; ciliated cells (tip of cilia)[≥Low],HPA:0060881,1,0,562,3,1,11019,WFS1
+HPA,bronchus; ciliated cells (cilia axoneme)[≥Medium],HPA:0060862,1,0,306,3,1,11019,WFS1
+HPA,bronchus; ciliated cells (cilia axoneme)[≥Low],HPA:0060861,1,0,340,3,1,11019,WFS1
+HPA,bronchus; ciliated cells (cell body)[≥Low],HPA:0060851,1,0,1158,3,1,11019,WFS1
+HPA,bronchus,HPA:0060000,1,0,7428,3,2,11019,"PPARG,WFS1"
+HPA,breast; myoepithelial cells[≥Medium],HPA:0050092,1,0,3779,3,1,11019,WFS1
+HPA,breast; myoepithelial cells[≥Low],HPA:0050091,1,0,5666,3,1,11019,WFS1
+HPA,breast; glandular cells[≥Medium],HPA:0050052,1,0,5109,3,1,11019,WFS1
+HPA,breast; glandular cells[≥Low],HPA:0050051,1,0,6813,3,1,11019,WFS1
+HPA,breast; adipocytes[≥Medium],HPA:0050012,1,0,1491,3,1,11019,WFS1
+HPA,cerebellum; cells in granular layer[≥Medium],HPA:0090182,1,0,2931,3,1,11019,WFS1
+HP,Abnormal waist to hip ratio,HP:0031818,0.000214091,3.669401756,35,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Increased waist to hip ratio,HP:0031819,0.000214091,3.669401756,35,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Insulin resistance,HP:0000855,0.007059603,2.151219719,110,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Late onset,HP:0003584,0.013412657,1.872485182,136,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Type II diabetes mellitus,HP:0005978,0.01371294,1.862869413,137,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Diabetes mellitus,HP:0000819,0.252241952,0.598182681,360,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Glucose intolerance,HP:0001952,0.280648693,0.551836976,373,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Limited mobility of proximal interphalangeal joint,HP:0006217,0.421822272,0.374870493,1,3,1,5080,WFS1
+HP,Autosomal dominant inheritance,HP:0000006,1,0,1980,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Mode of inheritance,HP:0000005,1,0,4782,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Abnormality of body height,HP:0000002,1,0,1520,3,1,5080,PPARG
+HP,HP root,HP:0000001,1,0,5080,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Autosomal recessive inheritance,HP:0000007,1,0,3088,3,2,5080,"PPARG,WFS1"
+HP,Abnormal morphology of female internal genitalia,HP:0000008,1,0,473,3,1,5080,PPARG
+HP,Functional abnormality of the bladder,HP:0000009,1,0,490,3,1,5080,WFS1
+HP,Recurrent urinary tract infections,HP:0000010,1,0,158,3,1,5080,WFS1
+HP,Phenotypic abnormality,HP:0000118,1,0,5078,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Nephropathy,HP:0000112,1,0,95,3,1,5080,WFS1
+HP,Tall stature,HP:0000098,1,0,178,3,1,5080,PPARG
+HP,Abnormality of reproductive system physiology,HP:0000080,1,0,815,3,2,5080,"PPARG,WFS1"
+HP,Abnormality of the urinary system,HP:0000079,1,0,2052,3,1,5080,WFS1
+HP,Abnormality of the genital system,HP:0000078,1,0,1704,3,2,5080,"PPARG,WFS1"
+HP,Abnormality of the kidney,HP:0000077,1,0,1445,3,1,5080,WFS1
+HP,Hydroureter,HP:0000072,1,0,77,3,1,5080,WFS1
+HP,Abnormality of the ureter,HP:0000069,1,0,376,3,1,5080,WFS1
+HP,Abnormal female external genitalia morphology,HP:0000055,1,0,157,3,1,5080,PPARG
+HP,Abnormal testis morphology,HP:0000035,1,0,930,3,1,5080,WFS1
+HP,Abnormal male external genitalia morphology,HP:0000032,1,0,1103,3,1,5080,WFS1
+HP,Testicular atrophy,HP:0000029,1,0,16,3,1,5080,WFS1
+HP,Male hypogonadism,HP:0000026,1,0,46,3,1,5080,WFS1
+HP,Functional abnormality of male internal genitalia,HP:0000025,1,0,295,3,1,5080,WFS1
+HP,Abnormality of the bladder,HP:0000014,1,0,527,3,1,5080,WFS1
+HP,Neurogenic bladder,HP:0000011,1,0,67,3,1,5080,WFS1
+HP,Abnormal clitoris morphology,HP:0000056,1,0,95,3,1,5080,PPARG
+HP,Abnormality of the genitourinary system,HP:0000119,1,0,2687,3,2,5080,"PPARG,WFS1"
+HP,Hydronephrosis,HP:0000126,1,0,268,3,1,5080,WFS1
+HP,Hearing abnormality,HP:0000364,1,0,1597,3,1,5080,WFS1
+HP,Abnormality of the ovary,HP:0000137,1,0,237,3,1,5080,PPARG
+HP,Localized skin lesion,HP:0011355,1,0,895,3,1,5080,PPARG
+HP,Generalized abnormality of skin,HP:0011354,1,0,1087,3,1,5080,PPARG
+HP,Abnormal digit morphology,HP:0011297,1,0,1531,3,1,5080,WFS1
+HP,Abnormality of the urinary system physiology,HP:0011277,1,0,1127,3,1,5080,WFS1
+HP,Vascular skin abnormality,HP:0011276,1,0,588,3,1,5080,PPARG
+HP,Abnormal skin adnexa morphology,HP:0011138,1,0,1509,3,1,5080,PPARG
+HP,Abnormal skin morphology,HP:0011121,1,0,1989,3,1,5080,PPARG
+HP,Internal hemorrhage,HP:0011029,1,0,339,3,1,5080,WFS1
+HP,Abnormality of blood circulation,HP:0011028,1,0,363,3,1,5080,WFS1
+HP,Abnormal cardiovascular system physiology,HP:0011025,1,0,1455,3,2,5080,"PPARG,WFS1"
+HP,Abnormality of the gastrointestinal tract,HP:0011024,1,0,1770,3,1,5080,WFS1
+HP,Abnormal blood glucose concentration,HP:0011015,1,0,331,3,1,5080,PPARG
+HP,Abnormal glucose homeostasis,HP:0011014,1,0,687,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Abnormal systemic arterial morphology,HP:0011004,1,0,548,3,1,5080,PPARG
+HP,Polygenic inheritance,HP:0010982,1,0,33,3,1,5080,PPARG
+HP,Hypolipoproteinemia,HP:0010981,1,0,67,3,1,5080,PPARG
+HP,Abnormality of lipoprotein cholesterol concentration,HP:0010979,1,0,93,3,1,5080,PPARG
+HP,Abnormality of immune system physiology,HP:0010978,1,0,1812,3,2,5080,"PPARG,WFS1"
+HP,Anemia of inadequate production,HP:0010972,1,0,201,3,1,5080,WFS1
+HP,Dilatation of the renal pelvis,HP:0010946,1,0,287,3,1,5080,WFS1
+HP,Abnormal renal pelvis morphology,HP:0010944,1,0,304,3,1,5080,WFS1
+HP,Congenital abnormal hair pattern,HP:0011361,1,0,327,3,1,5080,PPARG
+HP,Abnormality of the lower urinary tract,HP:0010936,1,0,870,3,1,5080,WFS1
+HP,Abnormal hair quantity,HP:0011362,1,0,879,3,1,5080,PPARG
+HP,Functional abnormality of the inner ear,HP:0011389,1,0,1060,3,1,5080,WFS1
+HP,Abnormal renal morphology,HP:0012210,1,0,1148,3,1,5080,WFS1
+HP,Abnormality of pancreas physiology,HP:0012091,1,0,182,3,1,5080,PPARG
+HP,Abnormality of skeletal muscle fiber size,HP:0012084,1,0,119,3,1,5080,PPARG
+HP,Bone cyst,HP:0012062,1,0,30,3,1,5080,PPARG
+HP,Feeding difficulties,HP:0011968,1,0,1195,3,1,5080,WFS1
+HP,Abnormal platelet morphology,HP:0011875,1,0,461,3,1,5080,WFS1
+HP,Abnormal platelet count,HP:0011873,1,0,457,3,1,5080,WFS1
+HP,Abnormal appendicular skeleton morphology,HP:0011844,1,0,1881,3,1,5080,WFS1
+HP,Abnormal musculoskeletal physiology,HP:0011843,1,0,1668,3,2,5080,"PPARG,WFS1"
+HP,Abnormal skeletal morphology,HP:0011842,1,0,3184,3,2,5080,"PPARG,WFS1"
+HP,Abnormal facial skeleton morphology,HP:0011821,1,0,1395,3,1,5080,PPARG
+HP,Abnormal skeletal muscle morphology,HP:0011805,1,0,1904,3,2,5080,"PPARG,WFS1"
+HP,Abnormality of facial soft tissue,HP:0011799,1,0,517,3,1,5080,PPARG
+HP,Abnormality of joint mobility,HP:0011729,1,0,1348,3,1,5080,WFS1
+HP,Childhood onset,HP:0011463,1,0,951,3,1,5080,WFS1
+HP,Young adult onset,HP:0011462,1,0,618,3,1,5080,PPARG
+HP,Abdominal symptom,HP:0011458,1,0,1938,3,1,5080,WFS1
+HP,Abnormality of mental function,HP:0011446,1,0,3193,3,2,5080,"PPARG,WFS1"
+HP,Abnormality of coordination,HP:0011443,1,0,1212,3,1,5080,WFS1
+HP,Abnormal central motor function,HP:0011442,1,0,2048,3,1,5080,WFS1
+HP,Proportionate tall stature,HP:0011407,1,0,15,3,1,5080,PPARG
+HP,Epidermal thickening,HP:0011368,1,0,376,3,1,5080,PPARG
+HP,Abnormality of the upper urinary tract,HP:0010935,1,0,1474,3,1,5080,WFS1
+HP,Abnormal circulating nucleobase concentration,HP:0010932,1,0,49,3,1,5080,PPARG
+HP,Zonular cataract,HP:0010920,1,0,52,3,1,5080,WFS1
+HP,Prominent superficial blood vessels,HP:0007394,1,0,36,3,1,5080,PPARG
+HP,Atrophy/Degeneration affecting the cerebrum,HP:0007369,1,0,700,3,1,5080,WFS1
+HP,Atrophy/Degeneration affecting the central nervous system,HP:0007367,1,0,884,3,1,5080,WFS1
+HP,Abnormal coronary artery morphology,HP:0006704,1,0,73,3,1,5080,PPARG
+HP,Lipid accumulation in hepatocytes,HP:0006561,1,0,182,3,1,5080,PPARG
+HP,Abnormal phalangeal joint morphology of the hand,HP:0006261,1,0,229,3,1,5080,WFS1
+HP,Abnormal hand morphology,HP:0005922,1,0,1070,3,1,5080,PPARG
+HP,Abnormal finger phalanx morphology,HP:0005918,1,0,679,3,1,5080,WFS1
+HP,Accelerated skeletal maturation,HP:0005616,1,0,69,3,1,5080,PPARG
+HP,Peptic ulcer,HP:0004398,1,0,38,3,1,5080,WFS1
+HP,Abnormal circulating nitrogen compound concentration,HP:0004364,1,0,185,3,1,5080,PPARG
+HP,Abnormal posterior eye segment morphology,HP:0004329,1,0,1408,3,1,5080,WFS1
+HP,Abnormal anterior eye segment morphology,HP:0004328,1,0,1322,3,1,5080,WFS1
+HP,Decreased body weight,HP:0004325,1,0,1588,3,1,5080,PPARG
+HP,Increased body weight,HP:0004324,1,0,413,3,1,5080,PPARG
+HP,Abnormality of body weight,HP:0004323,1,0,1825,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Involuntary movements,HP:0004305,1,0,1067,3,1,5080,WFS1
+HP,Abnormal muscle fiber morphology,HP:0004303,1,0,273,3,1,5080,PPARG
+HP,Abnormal gastric mucosa morphology,HP:0004295,1,0,45,3,1,5080,WFS1
+HP,Reduced subcutaneous adipose tissue,HP:0003758,1,0,33,3,1,5080,PPARG
+HP,Skeletal muscle hypertrophy,HP:0003712,1,0,219,3,1,5080,PPARG
+HP,Prominent veins on trunk,HP:0007457,1,0,5,3,1,5080,PPARG
+HP,Reduced visual acuity,HP:0007663,1,0,598,3,1,5080,WFS1
+HP,Abnormality of retinal pigmentation,HP:0007703,1,0,323,3,1,5080,WFS1
+HP,Aplasia/Hypoplasia of the skin,HP:0008065,1,0,206,3,1,5080,PPARG
+HP,Abnormal circulating protein concentration,HP:0010876,1,0,696,3,1,5080,PPARG
+HP,Abnormal hair pattern,HP:0010720,1,0,376,3,1,5080,PPARG
+HP,Precocious puberty in females,HP:0010465,1,0,10,3,1,5080,PPARG
+HP,Abnormality of the male genitalia,HP:0010461,1,0,1153,3,1,5080,WFS1
+HP,Abnormality of the female genitalia,HP:0010460,1,0,567,3,1,5080,PPARG
+HP,Peripheral neuropathy,HP:0009830,1,0,483,3,1,5080,WFS1
+HP,Maternal diabetes,HP:0009800,1,0,45,3,1,5080,PPARG
+HP,Abnormality of the hairline,HP:0009553,1,0,297,3,1,5080,PPARG
+HP,Abnormality of the musculature of the limbs,HP:0009127,1,0,651,3,1,5080,PPARG
+HP,Lipodystrophy,HP:0009125,1,0,124,3,1,5080,PPARG
+HP,Abnormal renal physiology,HP:0012211,1,0,722,3,1,5080,WFS1
+HP,Abnormal adipose tissue morphology,HP:0009124,1,0,246,3,1,5080,PPARG
+HP,Loss of gluteal subcutaneous adipose tissue,HP:0009017,1,0,4,3,1,5080,PPARG
+HP,Postnatal growth retardation,HP:0008897,1,0,260,3,1,5080,WFS1
+HP,Adipose tissue loss,HP:0008887,1,0,34,3,1,5080,PPARG
+HP,Feeding difficulties in infancy,HP:0008872,1,0,606,3,1,5080,WFS1
+HP,Severe postnatal growth retardation,HP:0008850,1,0,40,3,1,5080,WFS1
+HP,Clitoral hypertrophy,HP:0008665,1,0,69,3,1,5080,PPARG
+HP,Low-frequency sensorineural hearing impairment,HP:0008573,1,0,4,3,1,5080,WFS1
+HP,Congenital sensorineural hearing impairment,HP:0008527,1,0,58,3,1,5080,WFS1
+HP,Puberty and gonadal disorders,HP:0008373,1,0,574,3,2,5080,"PPARG,WFS1"
+HP,Primary gonadal insufficiency,HP:0008193,1,0,16,3,1,5080,WFS1
+HP,Abnormal axial skeleton morphology,HP:0009121,1,0,2730,3,1,5080,PPARG
+HP,Abnormal reproductive system morphology,HP:0012243,1,0,1393,3,2,5080,"PPARG,WFS1"
+HP,Abnormal autonomic nervous system physiology,HP:0012332,1,0,130,3,1,5080,WFS1
+HP,Abnormal homeostasis,HP:0012337,1,0,1751,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Early onset of sexual maturation,HP:0100000,1,0,182,3,1,5080,PPARG
+HP,Impaired glucose tolerance,HP:0040270,1,0,37,3,1,5080,WFS1
+HP,Increased size of the clitoris,HP:0040253,1,0,69,3,1,5080,PPARG
+HP,Abnormal size of the clitoris,HP:0040252,1,0,69,3,1,5080,PPARG
+HP,Abnormal circulating insulin concentration,HP:0040214,1,0,158,3,1,5080,PPARG
+HP,Abnormal consumption behavior,HP:0040202,1,0,285,3,1,5080,WFS1
+HP,Abnormality of limb bone,HP:0040068,1,0,1754,3,1,5080,WFS1
+HP,Abnormality of limbs,HP:0040064,1,0,2472,3,2,5080,"PPARG,WFS1"
+HP,Decreased adipose tissue,HP:0040063,1,0,53,3,1,5080,PPARG
+HP,Abnormal liver metabolite concentration,HP:0034644,1,0,202,3,1,5080,PPARG
+HP,Abnormal communication,HP:0034434,1,0,1765,3,1,5080,WFS1
+HP,Abnormal joint physiology,HP:0034430,1,0,1348,3,1,5080,WFS1
+HP,Mendelian inheritance,HP:0034345,1,0,4733,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Gastrointestinal ulcer,HP:0034274,1,0,52,3,1,5080,WFS1
+HP,Abnormal blood vessel morphology,HP:0033353,1,0,993,3,1,5080,PPARG
+HP,Abnormality of the musculoskeletal system,HP:0033127,1,0,3791,3,2,5080,"PPARG,WFS1"
+HP,Past medical history,HP:0032443,1,0,181,3,1,5080,PPARG
+HP,Increased blood pressure,HP:0032263,1,0,479,3,1,5080,PPARG
+HP,Abnormal tissue metabolite concentration,HP:0032243,1,0,271,3,1,5080,PPARG
+HP,Abnormal circulating metabolite concentration,HP:0032180,1,0,1438,3,1,5080,PPARG
+HP,Unusual infection,HP:0032101,1,0,1088,3,1,5080,WFS1
+HP,Abnormal mesentery morphology,HP:0100016,1,0,6,3,1,5080,WFS1
+HP,Nuclear cataract,HP:0100018,1,0,28,3,1,5080,WFS1
+HP,Abnormality of movement,HP:0100022,1,0,2021,3,1,5080,WFS1
+HP,Abnormality of the scalp hair,HP:0100037,1,0,435,3,1,5080,PPARG
+HP,Abnormal judgment,HP:5200401,1,0,499,3,1,5080,WFS1
+HP,Recurrent maladaptive behavior,HP:5200241,1,0,1083,3,1,5080,WFS1
+HP,Maladaptive fear-related cognitions,HP:5200230,1,0,479,3,1,5080,WFS1
+HP,Abnormal language feature,HP:4000072,1,0,1718,3,1,5080,WFS1
+HP,Abnormal circulating organic compound concentration,HP:0430071,1,0,754,3,1,5080,PPARG
+HP,Pediatric onset,HP:0410280,1,0,2129,3,2,5080,"PPARG,WFS1"
+HP,Abnormal liver morphology,HP:0410042,1,0,894,3,1,5080,PPARG
+HP,Abnormality of the peripheral nervous system,HP:0410008,1,0,463,3,1,5080,WFS1
+HP,Abnormal emotional state,HP:0100851,1,0,692,3,1,5080,WFS1
+HP,Abnormality of the lymphatic system,HP:0100763,1,0,787,3,1,5080,PPARG
+HP,Abnormal HDL cholesterol concentration,HP:0031888,1,0,62,3,1,5080,PPARG
+HP,Schizophrenia,HP:0100753,1,0,74,3,1,5080,WFS1
+HP,Dysmenorrhea,HP:0100607,1,0,14,3,1,5080,PPARG
+HP,Toxemia of pregnancy,HP:0100603,1,0,27,3,1,5080,PPARG
+HP,Preeclampsia,HP:0100602,1,0,22,3,1,5080,PPARG
+HP,Eclampsia,HP:0100601,1,0,7,3,1,5080,PPARG
+HP,Lipoatrophy,HP:0100578,1,0,78,3,1,5080,PPARG
+HP,Abnormal forebrain morphology,HP:0100547,1,0,2120,3,1,5080,WFS1
+HP,Arterial stenosis,HP:0100545,1,0,105,3,1,5080,PPARG
+HP,Cognitive impairment,HP:0100543,1,0,1024,3,1,5080,WFS1
+HP,Abnormality of the supraorbital ridges,HP:0100538,1,0,118,3,1,5080,PPARG
+HP,Dysuria,HP:0100518,1,0,18,3,1,5080,WFS1
+HP,Abnormal cerebral vascular morphology,HP:0100659,1,0,359,3,1,5080,WFS1
+HP,Calf muscle pseudohypertrophy,HP:0003707,1,0,20,3,1,5080,PPARG
+HP,Abnormal oral morphology,HP:0031816,1,0,2280,3,1,5080,PPARG
+HP,Abnormal ear physiology,HP:0031704,1,0,1680,3,1,5080,WFS1
+HP,Abnormality of the digestive system,HP:0025031,1,0,2997,3,2,5080,"PPARG,WFS1"
+HP,Abnormal vascular morphology,HP:0025015,1,0,1165,3,2,5080,"PPARG,WFS1"
+HP,Abnormal male reproductive system physiology,HP:0012874,1,0,359,3,1,5080,WFS1
+HP,Clinical modifier,HP:0012823,1,0,3561,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Abnormal optic disc morphology,HP:0012795,1,0,769,3,1,5080,WFS1
+HP,Neurodevelopmental abnormality,HP:0012759,1,0,2894,3,2,5080,"PPARG,WFS1"
+HP,Neurodevelopmental delay,HP:0012758,1,0,2495,3,1,5080,PPARG
+HP,Functional abnormality of the gastrointestinal tract,HP:0012719,1,0,1251,3,1,5080,WFS1
+HP,Abnormal gastrointestinal tract morphology,HP:0012718,1,0,964,3,1,5080,WFS1
+HP,Increased inflammatory response,HP:0012649,1,0,1290,3,1,5080,PPARG
+HP,Abnormal inflammatory response,HP:0012647,1,0,1290,3,1,5080,PPARG
+HP,Abnormal nervous system morphology,HP:0012639,1,0,2971,3,1,5080,WFS1
+HP,Abnormal nervous system physiology,HP:0012638,1,0,3785,3,2,5080,"PPARG,WFS1"
+HP,Abnormal involuntary eye movements,HP:0012547,1,0,1122,3,1,5080,WFS1
+HP,Pain,HP:0012531,1,0,852,3,1,5080,PPARG
+HP,Brain atrophy,HP:0012444,1,0,797,3,1,5080,WFS1
+HP,Abnormal brain morphology,HP:0012443,1,0,2674,3,1,5080,WFS1
+HP,Abnormal eye physiology,HP:0012373,1,0,2526,3,1,5080,WFS1
+HP,Abnormal eye morphology,HP:0012372,1,0,2534,3,1,5080,WFS1
+HP,Decreased resting energy expenditure,HP:0012340,1,0,11,3,1,5080,PPARG
+HP,Abnormal energy expenditure,HP:0012338,1,0,12,3,1,5080,PPARG
+HP,Abnormality of digestive system physiology,HP:0025032,1,0,2366,3,1,5080,WFS1
+HP,Abnormal digestive system morphology,HP:0025033,1,0,1046,3,1,5080,WFS1
+HP,Constitutional symptom,HP:0025142,1,0,1275,3,1,5080,PPARG
+HP,Abnormal esophagus physiology,HP:0025270,1,0,916,3,1,5080,WFS1
+HP,Abnormal ear morphology,HP:0031703,1,0,1675,3,1,5080,WFS1
+HP,Storage in hepatocytes,HP:0031137,1,0,191,3,1,5080,PPARG
+HP,Abnormal ovarian morphology,HP:0031065,1,0,179,3,1,5080,PPARG
+HP,Abnormal systemic blood pressure,HP:0030972,1,0,554,3,1,5080,PPARG
+HP,Abnormal gastrointestinal motility,HP:0030895,1,0,112,3,1,5080,WFS1
+HP,Abnormal tongue morphology,HP:0030809,1,0,388,3,1,5080,PPARG
+HP,Increased C-peptide level,HP:0030796,1,0,14,3,1,5080,PPARG
+HP,Abnormal circulating C-peptide concentration,HP:0030794,1,0,27,3,1,5080,PPARG
+HP,Abnormal jaw morphology,HP:0030791,1,0,1185,3,1,5080,PPARG
+HP,Abnormal cardiovascular system morphology,HP:0030680,1,0,1969,3,2,5080,"PPARG,WFS1"
+HP,Clinical course,HP:0031797,1,0,3540,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Blind-spot enlargement,HP:0030644,1,0,3,3,1,5080,WFS1
+HP,Abnormality of the posterior hairline,HP:0030141,1,0,119,3,1,5080,PPARG
+HP,Abnormal drinking behavior,HP:0030082,1,0,54,3,1,5080,WFS1
+HP,Abnormal female reproductive system physiology,HP:0030012,1,0,396,3,1,5080,PPARG
+HP,Abnormal cognitive process,HP:0025792,1,0,1802,3,1,5080,WFS1
+HP,Diagnostic behavioral phenotype,HP:0025783,1,0,690,3,1,5080,WFS1
+HP,Abnormal volitional state,HP:0025780,1,0,1192,3,1,5080,WFS1
+HP,Abnormal affect,HP:0025766,1,0,1340,3,1,5080,WFS1
+HP,Abnormal neck morphology,HP:0025668,1,0,666,3,1,5080,PPARG
+HP,Abnormal ureter morphology,HP:0025633,1,0,157,3,1,5080,WFS1
+HP,Abnormal spleen morphology,HP:0025408,1,0,608,3,1,5080,PPARG
+HP,Abnormality of muscle size,HP:0030236,1,0,257,3,1,5080,PPARG
+HP,Hypogonadism,HP:0000135,1,0,351,3,1,5080,WFS1
+HP,Onset,HP:0003674,1,0,3403,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Juvenile onset,HP:0003621,1,0,703,3,2,5080,"PPARG,WFS1"
+HP,Oligomenorrhea,HP:0000876,1,0,46,3,1,5080,PPARG
+HP,Diabetes insipidus,HP:0000873,1,0,67,3,1,5080,WFS1
+HP,Secondary amenorrhea,HP:0000869,1,0,72,3,1,5080,PPARG
+HP,Central diabetes insipidus,HP:0000863,1,0,22,3,1,5080,WFS1
+HP,Hyperinsulinemia,HP:0000842,1,0,148,3,1,5080,PPARG
+HP,Insulin-resistant diabetes mellitus,HP:0000831,1,0,39,3,1,5080,PPARG
+HP,Precocious puberty,HP:0000826,1,0,179,3,1,5080,PPARG
+HP,Delayed puberty,HP:0000823,1,0,208,3,1,5080,WFS1
+HP,Hypertension,HP:0000822,1,0,413,3,1,5080,PPARG
+HP,Hypothyroidism,HP:0000821,1,0,391,3,1,5080,WFS1
+HP,Abnormality of the thyroid gland,HP:0000820,1,0,522,3,1,5080,WFS1
+HP,Abnormality of the endocrine system,HP:0000818,1,0,1434,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Abnormal internal genitalia,HP:0000812,1,0,549,3,1,5080,PPARG
+HP,Abnormal external genitalia morphology,HP:0000811,1,0,1148,3,2,5080,"PPARG,WFS1"
+HP,Primary amenorrhea,HP:0000786,1,0,128,3,1,5080,PPARG
+HP,Peripheral axonal degeneration,HP:0000764,1,0,209,3,1,5080,WFS1
+HP,Abnormal peripheral nervous system morphology,HP:0000759,1,0,399,3,1,5080,WFS1
+HP,Abnormal diminished volition,HP:0000745,1,0,665,3,1,5080,WFS1
+HP,Anxiety,HP:0000739,1,0,479,3,1,5080,WFS1
+HP,Hallucinations,HP:0000738,1,0,156,3,1,5080,WFS1
+HP,Autistic behavior,HP:0000729,1,0,628,3,1,5080,WFS1
+HP,Abnormality of the skeletal system,HP:0000924,1,0,3255,3,2,5080,"PPARG,WFS1"
+HP,Dementia,HP:0000726,1,0,209,3,1,5080,WFS1
+HP,Abnormality of skeletal maturation,HP:0000927,1,0,405,3,1,5080,PPARG
+HP,Abnormality of the skin,HP:0000951,1,0,2128,3,1,5080,PPARG
+HP,Stroke,HP:0001297,1,0,181,3,1,5080,WFS1
+HP,Mental deterioration,HP:0001268,1,0,374,3,1,5080,WFS1
+HP,Global developmental delay,HP:0001263,1,0,1974,3,1,5080,PPARG
+HP,Dysarthria,HP:0001260,1,0,607,3,1,5080,WFS1
+HP,Ataxia,HP:0001251,1,0,1062,3,1,5080,WFS1
+HP,Seizure,HP:0001250,1,0,2017,3,1,5080,WFS1
+HP,Intellectual disability,HP:0001249,1,0,2002,3,2,5080,"PPARG,WFS1"
+HP,Large hands,HP:0001176,1,0,35,3,1,5080,PPARG
+HP,Abnormal finger morphology,HP:0001167,1,0,1229,3,1,5080,WFS1
+HP,Abnormality of the hand,HP:0001155,1,0,1595,3,2,5080,"PPARG,WFS1"
+HP,Severely reduced visual acuity,HP:0001141,1,0,45,3,1,5080,WFS1
+HP,Visual field defect,HP:0001123,1,0,294,3,1,5080,WFS1
+HP,Abnormal fundus morphology,HP:0001098,1,0,1403,3,1,5080,WFS1
+HP,Thickened skin,HP:0001072,1,0,426,3,1,5080,PPARG
+HP,Prominent superficial veins,HP:0001015,1,0,33,3,1,5080,PPARG
+HP,Hirsutism,HP:0001007,1,0,215,3,1,5080,PPARG
+HP,Abnormality of subcutaneous fat tissue,HP:0001001,1,0,66,3,1,5080,PPARG
+HP,Hypertrichosis,HP:0000998,1,0,293,3,1,5080,PPARG
+HP,Xanthomatosis,HP:0000991,1,0,39,3,1,5080,PPARG
+HP,Thin skin,HP:0000963,1,0,90,3,1,5080,PPARG
+HP,Acanthosis nigricans,HP:0000956,1,0,63,3,1,5080,PPARG
+HP,Abnormal skull morphology,HP:0000929,1,0,2435,3,1,5080,PPARG
+HP,Autism,HP:0000717,1,0,264,3,1,5080,WFS1
+HP,Depression,HP:0000716,1,0,431,3,1,5080,WFS1
+HP,Psychosis,HP:0000709,1,0,130,3,1,5080,WFS1
+HP,Abnormality of the outer ear,HP:0000356,1,0,1323,3,1,5080,WFS1
+HP,Prominent supraorbital ridges,HP:0000336,1,0,57,3,1,5080,PPARG
+HP,Abnormality of the chin,HP:0000306,1,0,416,3,1,5080,PPARG
+HP,Mandibular prognathia,HP:0000303,1,0,224,3,1,5080,PPARG
+HP,Low anterior hairline,HP:0000294,1,0,150,3,1,5080,PPARG
+HP,Loss of facial adipose tissue,HP:0000292,1,0,9,3,1,5080,PPARG
+HP,Abnormality of facial adipose tissue,HP:0000291,1,0,10,3,1,5080,PPARG
+HP,Abnormal forehead morphology,HP:0000290,1,0,1211,3,1,5080,PPARG
+HP,Abnormal mandible morphology,HP:0000277,1,0,1129,3,1,5080,PPARG
+HP,Abnormality of the face,HP:0000271,1,0,3032,3,1,5080,PPARG
+HP,Abnormality of the head,HP:0000234,1,0,3342,3,1,5080,PPARG
+HP,Abnormal oral cavity morphology,HP:0000163,1,0,2280,3,1,5080,PPARG
+HP,Macroglossia,HP:0000158,1,0,160,3,1,5080,PPARG
+HP,Abnormality of the tongue,HP:0000157,1,0,473,3,1,5080,PPARG
+HP,Abnormality of the mouth,HP:0000153,1,0,2370,3,1,5080,PPARG
+HP,Abnormality of head or neck,HP:0000152,1,0,3371,3,1,5080,PPARG
+HP,Polycystic ovaries,HP:0000147,1,0,106,3,1,5080,PPARG
+HP,Amenorrhea,HP:0000141,1,0,202,3,1,5080,PPARG
+HP,Abnormality of the menstrual cycle,HP:0000140,1,0,330,3,1,5080,PPARG
+HP,Ovarian cyst,HP:0000138,1,0,119,3,1,5080,PPARG
+HP,Hearing impairment,HP:0000365,1,0,1570,3,1,5080,WFS1
+HP,Abnormal pinna morphology,HP:0000377,1,0,1309,3,1,5080,WFS1
+HP,Sensorineural hearing impairment,HP:0000407,1,0,939,3,1,5080,WFS1
+HP,Progressive sensorineural hearing impairment,HP:0000408,1,0,44,3,1,5080,WFS1
+HP,Atypical behavior,HP:0000708,1,0,1625,3,1,5080,WFS1
+HP,Abnormality of the nervous system,HP:0000707,1,0,4024,3,2,5080,"PPARG,WFS1"
+HP,Optic atrophy,HP:0000648,1,0,610,3,1,5080,WFS1
+HP,Nystagmus,HP:0000639,1,0,1101,3,1,5080,WFS1
+HP,Abnormality of the periorbital region,HP:0000606,1,0,274,3,1,5080,PPARG
+HP,Ophthalmoplegia,HP:0000602,1,0,253,3,1,5080,WFS1
+HP,Abnormality of the frontal hairline,HP:0000599,1,0,218,3,1,5080,PPARG
+HP,Abnormality of the ear,HP:0000598,1,0,2450,3,1,5080,WFS1
+HP,Ophthalmoparesis,HP:0000597,1,0,293,3,1,5080,WFS1
+HP,Abnormal optic nerve morphology,HP:0000587,1,0,898,3,1,5080,WFS1
+HP,Tremor,HP:0001337,1,0,634,3,1,5080,WFS1
+HP,Pigmentary retinopathy,HP:0000580,1,0,203,3,1,5080,WFS1
+HP,Cataract,HP:0000518,1,0,818,3,1,5080,WFS1
+HP,Abnormal lens morphology,HP:0000517,1,0,834,3,1,5080,WFS1
+HP,Ptosis,HP:0000508,1,0,760,3,1,5080,WFS1
+HP,Visual impairment,HP:0000505,1,0,1154,3,1,5080,WFS1
+HP,Abnormality of vision,HP:0000504,1,0,1357,3,1,5080,WFS1
+HP,Glaucoma,HP:0000501,1,0,376,3,1,5080,WFS1
+HP,Abnormality of eye movement,HP:0000496,1,0,1831,3,1,5080,WFS1
+HP,Abnormal retinal morphology,HP:0000479,1,0,986,3,1,5080,WFS1
+HP,Abnormality of the eye,HP:0000478,1,0,3114,3,1,5080,WFS1
+HP,Abnormality of the neck,HP:0000464,1,0,715,3,1,5080,PPARG
+HP,Optic disc pallor,HP:0000543,1,0,257,3,1,5080,WFS1
+HP,Limitation of joint mobility,HP:0001376,1,0,419,3,1,5080,WFS1
+HP,Joint stiffness,HP:0001387,1,0,201,3,1,5080,WFS1
+HP,Abnormality of the liver,HP:0001392,1,0,1114,3,1,5080,PPARG
+HP,Pregnancy history,HP:0002686,1,0,180,3,1,5080,PPARG
+HP,Arteriosclerosis,HP:0002634,1,0,88,3,1,5080,PPARG
+HP,Abnormal venous morphology,HP:0002624,1,0,164,3,1,5080,PPARG
+HP,Atherosclerosis,HP:0002621,1,0,82,3,1,5080,PPARG
+HP,Abnormality of the vasculature,HP:0002597,1,0,2003,3,2,5080,"PPARG,WFS1"
+HP,Gastric ulcer,HP:0002592,1,0,6,3,1,5080,WFS1
+HP,Gastrointestinal dysmotility,HP:0002579,1,0,110,3,1,5080,WFS1
+HP,Abnormal stomach morphology,HP:0002577,1,0,275,3,1,5080,WFS1
+HP,Abnormal cerebral cortex morphology,HP:0002538,1,0,704,3,1,5080,WFS1
+HP,Stroke-like episode,HP:0002401,1,0,22,3,1,5080,WFS1
+HP,Developmental regression,HP:0002376,1,0,429,3,1,5080,WFS1
+HP,Sleep abnormality,HP:0002360,1,0,590,3,1,5080,WFS1
+HP,Abnormality of the autonomic nervous system,HP:0002270,1,0,300,3,1,5080,WFS1
+HP,Hepatomegaly,HP:0002240,1,0,659,3,1,5080,PPARG
+HP,Gastrointestinal hemorrhage,HP:0002239,1,0,163,3,1,5080,WFS1
+HP,Generalized hirsutism,HP:0002230,1,0,89,3,1,5080,PPARG
+HP,Abnormal speech pattern,HP:0002167,1,0,1718,3,1,5080,WFS1
+HP,Low posterior hairline,HP:0002162,1,0,119,3,1,5080,PPARG
+HP,Azotemia,HP:0002157,1,0,173,3,1,5080,PPARG
+HP,Hypertriglyceridemia,HP:0002155,1,0,131,3,1,5080,PPARG
+HP,Hyperuricemia,HP:0002149,1,0,29,3,1,5080,PPARG
+HP,Abnormality of the immune system,HP:0002715,1,0,2129,3,2,5080,"PPARG,WFS1"
+HP,Recurrent infections,HP:0002719,1,0,1019,3,1,5080,WFS1
+HP,Abnormal pattern of respiration,HP:0002793,1,0,767,3,1,5080,WFS1
+HP,Abnormal respiratory system physiology,HP:0002795,1,0,2149,3,1,5080,WFS1
+HP,Adult onset,HP:0003581,1,0,911,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Abnormality of connective tissue,HP:0003549,1,0,1557,3,1,5080,PPARG
+HP,Peripheral axonal neuropathy,HP:0003477,1,0,177,3,1,5080,WFS1
+HP,Abnormal bone structure,HP:0003330,1,0,839,3,1,5080,PPARG
+HP,Myalgia,HP:0003326,1,0,184,3,1,5080,PPARG
+HP,Visceromegaly,HP:0003271,1,0,763,3,1,5080,PPARG
+HP,Overgrowth of external genitalia,HP:0003247,1,0,11,3,1,5080,PPARG
+HP,Decreased HDL cholesterol concentration,HP:0003233,1,0,59,3,1,5080,PPARG
+HP,Myopathy,HP:0003198,1,0,329,3,2,5080,"PPARG,WFS1"
+HP,Hypercholesterolemia,HP:0003124,1,0,83,3,1,5080,PPARG
+HP,Cerebral cortical atrophy,HP:0002120,1,0,339,3,1,5080,WFS1
+HP,Abnormal circulating lipid concentration,HP:0003119,1,0,335,3,1,5080,PPARG
+HP,Abnormal circulating cholesterol concentration,HP:0003107,1,0,164,3,1,5080,PPARG
+HP,Hyperlipidemia,HP:0003077,1,0,163,3,1,5080,PPARG
+HP,Hyperglycemia,HP:0003074,1,0,86,3,1,5080,PPARG
+HP,Abnormality of the musculature,HP:0003011,1,0,2901,3,2,5080,"PPARG,WFS1"
+HP,Aplasia/Hypoplasia involving the central nervous system,HP:0002977,1,0,1915,3,1,5080,WFS1
+HP,Abnormality of thyroid physiology,HP:0002926,1,0,412,3,1,5080,WFS1
+HP,Central apnea,HP:0002871,1,0,43,3,1,5080,WFS1
+HP,Abnormality of the upper limb,HP:0002817,1,0,1748,3,2,5080,"PPARG,WFS1"
+HP,Abnormality of the lower limb,HP:0002814,1,0,1872,3,1,5080,PPARG
+HP,Abnormal limb bone morphology,HP:0002813,1,0,1754,3,1,5080,WFS1
+HP,Abnormal circulating hormone concentration,HP:0003117,1,0,505,3,1,5080,PPARG
+HP,Loss of subcutaneous adipose tissue in limbs,HP:0003635,1,0,10,3,1,5080,PPARG
+HP,Apnea,HP:0002104,1,0,236,3,1,5080,WFS1
+HP,Abnormality of the respiratory system,HP:0002086,1,0,2159,3,1,5080,WFS1
+HP,Abnormality of the pancreas,HP:0001732,1,0,324,3,1,5080,PPARG
+HP,Progressive hearing impairment,HP:0001730,1,0,51,3,1,5080,WFS1
+HP,Coronary artery atherosclerosis,HP:0001677,1,0,53,3,1,5080,PPARG
+HP,Hypertrophic cardiomyopathy,HP:0001639,1,0,280,3,1,5080,PPARG
+HP,Cardiomyopathy,HP:0001638,1,0,567,3,2,5080,"PPARG,WFS1"
+HP,Abnormal myocardium morphology,HP:0001637,1,0,596,3,2,5080,"PPARG,WFS1"
+HP,Congestive heart failure,HP:0001635,1,0,260,3,1,5080,PPARG
+HP,Abnormal heart morphology,HP:0001627,1,0,1553,3,2,5080,"PPARG,WFS1"
+HP,Abnormality of the cardiovascular system,HP:0001626,1,0,2801,3,2,5080,"PPARG,WFS1"
+HP,Abnormal hair morphology,HP:0001595,1,0,1349,3,1,5080,PPARG
+HP,Abnormality of the integument,HP:0001574,1,0,2593,3,1,5080,PPARG
+HP,Obesity,HP:0001513,1,0,347,3,1,5080,PPARG
+HP,Growth delay,HP:0001510,1,0,1897,3,1,5080,WFS1
+HP,Failure to thrive,HP:0001508,1,0,1119,3,1,5080,PPARG
+HP,Growth abnormality,HP:0001507,1,0,2652,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Abnormal abdomen morphology,HP:0001438,1,0,861,3,1,5080,PPARG
+HP,Abnormality of the musculature of the lower limbs,HP:0001437,1,0,103,3,1,5080,PPARG
+HP,Abnormal calf musculature morphology,HP:0001430,1,0,68,3,1,5080,PPARG
+HP,Non-Mendelian inheritance,HP:0001426,1,0,89,3,1,5080,PPARG
+HP,Hepatic steatosis,HP:0001397,1,0,180,3,1,5080,PPARG
+HP,Cirrhosis,HP:0001394,1,0,166,3,1,5080,PPARG
+HP,Pancreatitis,HP:0001733,1,0,96,3,1,5080,PPARG
+HP,Abnormality of the spleen,HP:0001743,1,0,635,3,1,5080,PPARG
+HP,Splenomegaly,HP:0001744,1,0,494,3,1,5080,PPARG
+HP,Abnormal foot morphology,HP:0001760,1,0,1542,3,1,5080,PPARG
+HP,Progressive cerebellar ataxia,HP:0002073,1,0,62,3,1,5080,WFS1
+HP,Abnormal cerebral morphology,HP:0002060,1,0,2089,3,1,5080,WFS1
+HP,Cerebral atrophy,HP:0002059,1,0,679,3,1,5080,WFS1
+HP,Malabsorption,HP:0002024,1,0,234,3,1,5080,WFS1
+HP,Constipation,HP:0002019,1,0,467,3,1,5080,WFS1
+HP,Dysphagia,HP:0002015,1,0,550,3,1,5080,WFS1
+HP,Abnormality of the abdominal organs,HP:0002012,1,0,1364,3,2,5080,"PPARG,WFS1"
+HP,Morphological central nervous system abnormality,HP:0002011,1,0,2890,3,1,5080,WFS1
+HP,Abnormal facial shape,HP:0001999,1,0,1109,3,1,5080,PPARG
+HP,Macrocytic anemia,HP:0001972,1,0,74,3,1,5080,WFS1
+HP,Respiratory insufficiency,HP:0002093,1,0,648,3,1,5080,WFS1
+HP,Abnormal scalp morphology,HP:0001965,1,0,452,3,1,5080,PPARG
+HP,Abnormality of metabolism/homeostasis,HP:0001939,1,0,2672,3,3,5080,"PPARG,WFS1,SLC30A8"
+HP,Sideroblastic anemia,HP:0001924,1,0,35,3,1,5080,WFS1
+HP,Anemia,HP:0001903,1,0,637,3,1,5080,WFS1
+HP,Abnormal bleeding,HP:0001892,1,0,539,3,1,5080,WFS1
+HP,Megaloblastic anemia,HP:0001889,1,0,19,3,1,5080,WFS1
+HP,Abnormal erythrocyte morphology,HP:0001877,1,0,700,3,1,5080,WFS1
+HP,Thrombocytopenia,HP:0001873,1,0,424,3,1,5080,WFS1
+HP,Abnormality of thrombocytes,HP:0001872,1,0,487,3,1,5080,WFS1
+HP,Abnormality of blood and blood-forming tissues,HP:0001871,1,0,1501,3,1,5080,WFS1
+HP,Long foot,HP:0001833,1,0,28,3,1,5080,PPARG
+HP,Polydipsia,HP:0001959,1,0,53,3,1,5080,WFS1
+HP,Abnormal experience of reality,HP:5200423,1,0,604,3,1,5080,WFS1
+HP,Abnormal psychotic pattern,HP:5200430,1,0,151,3,1,5080,WFS1
