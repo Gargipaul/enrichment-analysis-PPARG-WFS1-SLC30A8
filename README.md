@@ -64,7 +64,7 @@ git clone https://github.com/Gargipaul/enrichment-analysis-PPARG-WFS1-SLC30A8.gi
 cd enrichment-analysis-PPARG-WFS1-SLC30A8
 ---
 
-## Install required Python libraries
+Install required Python libraries
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
