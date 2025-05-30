@@ -22,7 +22,8 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 # g:Profiler GO enrichment plot
 📄 manhattan_plot_labeled.png 
 # Optional labeled Manhattan plot
-📜 LICENSE # MIT License
+📜 LICENSE 
+# MIT License
 
 
 
