@@ -1,6 +1,6 @@
-# Functional Annotation and Pathway Enrichment of Type 2 Diabetes-associated SNPs
+# 🧬 Functional Annotation and Pathway Enrichment of Type 2 Diabetes-associated SNPs
 
-## Abstract
+## 📌 Abstract
 
 Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic factors regulating insulin sensitivity and β-cell function. This project investigates the expression and statistical significance of three consistently associated T2D genes—**PPARG**, **WFS1**, and **SLC30A8**—using genome-wide significant single nucleotide polymorphisms (SNPs) from the DIAGRAM GWAS dataset. Functional annotation was performed using g:Profiler, and gene-level differential expression was visualized via volcano plots using Python. Notably, **PPARG** and **WFS1** showed strong upregulation (log₂ fold change > 2.5, p < 0.001), while **SLC30A8** showed a modest but borderline significant signal. This integrative analysis highlights potential therapeutic targets and demonstrates the power of visualization in genomic data interpretation.
 
