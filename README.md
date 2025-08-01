@@ -50,8 +50,6 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 - **Visualization**: Volcano plot  
   - X-axis: log₂ fold change  
   - Y-axis: –log₁₀ p-value
-
-
 ---
 
 ## Results Summary
@@ -71,7 +69,8 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
    git clone https://github.com/Gargipaul/enrichment-analysis-PPARG-WFS1-SLC30A8.git
    cd enrichment-analysis-PPARG-WFS1-SLC30A8
 
-
+## 📄 License
+This project is open-source under the MIT License.
 
 ## 🙏 Acknowledgments
 - DIAGRAM Consortium for providing GWAS meta-analysis data
