@@ -7,9 +7,11 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 ---
 
 ## 🗂️ Project Structure
-📁 annotation/ # Jupyter notebook for SNP annotation
+📁 annotation/ 
+# Jupyter notebook for SNP annotation
 
-📄 plotting.ipynb # Volcano plot visualization code
+📄 plotting.ipynb 
+# Volcano plot visualization code
 
 📄 cleaned_merged_gwas_diagram_annotations.xlsx
 # Merged GWAS and annotation data
