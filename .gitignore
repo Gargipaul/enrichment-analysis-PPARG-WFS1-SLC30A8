@@ -1,0 +1,21 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV data files
+*.csv
+
+# Ignore output images
+*.png
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+env/
+
+# OS/System files
+.DS_Store
+Thumbs.db
