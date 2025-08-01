@@ -80,6 +80,6 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 
 - Python ecosystem – including pandas, seaborn, and matplotlib for visualization
 
-## 💡 *For academic collaboration or questions, feel free to reach out via [GitHub](https://github.com/Gargipaul).*
+### 💡 *For academic collaboration or questions, feel free to reach out via [GitHub](https://github.com/Gargipaul).*
 
 
