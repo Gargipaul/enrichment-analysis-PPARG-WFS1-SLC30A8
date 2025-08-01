@@ -30,23 +30,27 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 
 ---
 
-## Data and Methods
+## 🔬 Data and Methods
 
-### Data Source
-- **GWAS Dataset**: DIAGRAMv3.2012DEC17 – genome-wide significant SNPs (p < 5×10⁻⁸)
+### 📊 Data Source
+- **GWAS Dataset**: *DIAGRAMv3.2012DEC17*  
+  Genome-wide significant SNPs (p < 5×10⁻⁸)
 
-### Functional Annotation
-- Tool: [g:Profiler](https://biit.cs.ut.ee/gprofiler/)
-- Output includes enriched gene ontologies and pathway annotations
+### 🧰 Functional Annotation
+- **Tool**: [g:Profiler](https://biit.cs.ut.ee/gprofiler/)
+- **Output**: Enriched Gene Ontologies (GO) and pathway annotations
 
-### Genes of Interest
-- **PPARG** – nuclear receptor affecting adipogenesis and insulin sensitivity
-- **WFS1** – regulates ER stress and β-cell function
-- **SLC30A8** – zinc transporter important for insulin granule formation
+### 🧬 Genes of Interest
+- **PPARG** – Nuclear receptor influencing adipogenesis and insulin sensitivity
+- **WFS1** – Regulates ER stress and pancreatic β-cell function
+- **SLC30A8** – Zinc transporter important for insulin granule formation
 
-### Statistical Thresholds
-- Significance: p < 0.05
-- Visualization: Volcano plot with log₂ fold change (x-axis) vs. –log₁₀ p-value (y-axis)
+### 📐 Statistical Thresholds
+- **Significance**: p < 0.05
+- **Visualization**: Volcano plot  
+  - X-axis: log₂ fold change  
+  - Y-axis: –log₁₀ p-value
+
 
 ---
 
