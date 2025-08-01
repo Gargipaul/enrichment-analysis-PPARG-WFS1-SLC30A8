@@ -64,17 +64,21 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 
 ---
 
-## How to Reproduce
+## 🚀 How to Reproduce
 
-Clone this repository:
+1. Clone this repository:
+   ```
+   git clone https://github.com/Gargipaul/enrichment-analysis-PPARG-WFS1-SLC30A8.git
+   cd enrichment-analysis-PPARG-WFS1-SLC30A8
 
-git clone https://github.com/Gargipaul/enrichment-analysis-PPARG-WFS1-SLC30A8.git
-cd enrichment-analysis-PPARG-WFS1-SLC30A8
+
 
 ## Acknowledgments
 - DIAGRAM Consortium for providing GWAS meta-analysis data
 
 - g:Profiler for gene ontology and functional annotation tools
+
+- Python ecosystem – including pandas, seaborn, and matplotlib for visualization
 
 
 
