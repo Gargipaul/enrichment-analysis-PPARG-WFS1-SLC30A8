@@ -73,7 +73,7 @@ Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic facto
 
 
 
-## Acknowledgments
+## 🙏 Acknowledgments
 - DIAGRAM Consortium for providing GWAS meta-analysis data
 
 - g:Profiler for gene ontology and functional annotation tools
